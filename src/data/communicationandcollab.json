@@ -1,0 +1,305 @@
+[
+  {
+    "section": "General Information",
+    "assessments": [
+      {
+        "question": "Can you provide an overview of your organization's approach to internal team collaboration and communication during the preparation and response to a new RFP?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Team Structure and Roles",
+    "assessments": [
+      {
+        "question": "How are teams structured for RFP responses, and what are the key roles within these teams?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "Are there designated team leads or coordinators responsible for overseeing collaboration and communication?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "How do you assign specific responsibilities and tasks to team members?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Communication Tools and Platforms",
+    "assessments": [
+      {
+        "question": "What communication tools and platforms do you utilize for collaboration during RFP responses?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "Are there specific project management or collaboration software tools in use?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "How do you ensure that all team members have access to and are proficient in using these tools?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Information Sharing and Access",
+    "assessments": [
+      {
+        "question": "How is information shared and accessed within and across different teams during the RFP process?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "Are there centralized repositories or document management systems for RFP-related content?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "What measures are in place to ensure data security and confidentiality?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Communication Protocols",
+    "assessments": [
+      {
+        "question": "Do you have established communication protocols or guidelines for RFP-related discussions?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "How often are team meetings or updates scheduled, and what is their format?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "Are there escalation procedures for addressing critical issues or roadblocks?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Cross-Functional Collaboration",
+    "assessments": [
+      {
+        "question": "How do different functional teams collaborate, such as sales, technical, legal, and finance, during the RFP response?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "Are there mechanisms to facilitate cross-functional alignment and information sharing?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "How are conflicting viewpoints or requirements resolved within cross-functional teams?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Document Version Control",
+    "assessments": [
+      {
+        "question": "How do you manage document version control and track changes within RFP responses?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "Are there designated individuals responsible for maintaining version control?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "How are final documents approved and signed off by relevant stakeholders?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Infrastructure and Technology Stack",
+    "assessments": [
+      {
+        "question": "Evaluate the existing infrastructure supporting the applications.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "Assess the technology stack, including servers, databases, middleware, and network components.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Timeline and Deadlines",
+    "assessments": [
+      {
+        "question": "How do you set and manage timelines and deadlines for RFP response tasks?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "Are there processes for monitoring progress and ensuring timely submissions?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "How do you handle last-minute changes or revisions to meet deadlines?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Feedback and Review",
+    "assessments": [
+      {
+        "question": "Can you describe the process for obtaining feedback and reviews from different teams and subject matter experts?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "How are feedback and suggestions incorporated into the RFP response?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "Who has the final authority to approve the response before submission?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Lessons Learned and Improvement",
+    "assessments": [
+      {
+        "question": "Do you conduct post-RFP assessments to capture lessons learned and identify areas for improvement in collaboration and communication?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "Can you share examples of improvements made based on previous RFP experiences?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Challenges and Mitigation",
+    "assessments": [
+      {
+        "question": "What challenges or obstacles do you encounter when managing internal team collaboration and communication during RFPs?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "How do you address these challenges or mitigate communication gaps?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "Are there specific areas within team collaboration that require special attention or improvement?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Technology and Training",
+    "assessments": [
+      {
+        "question": "Do you provide training or guidance to team members on effective collaboration and communication tools and practices?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "question": "Do you provide training or guidance to team members on effective collaboration and communication tools and practices?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  }
+]

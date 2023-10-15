@@ -1,0 +1,416 @@
+[
+  {
+    "section": "General Information",
+    "assessments": [
+      {
+        "question": "Can you provide an overview of your organization's typical project portfolio and the types of projects you handle?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Human Resource Estimation Process",
+    "assessments": [
+      {
+        "question": "What is your current process for resource estimation when initiating a new project?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Who is primarily responsible for resource estimation within your organization?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "How early in the project lifecycle do you begin resource estimation activities?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Are there specific methodologies or frameworks you follow for resource estimation (e.g., bottom-up, top-down, expert judgment)?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "What tools or software do you use to support resource estimation?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Can you describe the key factors and variables considered during resource estimation?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "How do you account for project complexity and uncertainty when estimating resources?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "What role do historical project data and benchmarks play in your resource estimation process?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Resource Categories",
+    "assessments": [
+      {
+        "question": "What categories of resources do you typically estimate (e.g., personnel, equipment, software, facilities)?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "How do you determine the quantity and type of personnel required for a project?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Do you consider resource availability and allocation across multiple projects during estimation?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "How do you estimate and allocate budgetary resources for a project?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Are contingency resources factored into your estimates, and if so, how?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Estimation Techniques",
+    "assessments": [
+      {
+        "question": "What estimation techniques or models do you employ for different resource categories (e.g., FTEs, time, costs)?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "How do you validate and refine resource estimates as a project progresses from initiation to execution?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Do you utilize historical data or industry benchmarks to validate your resource estimates?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Are there specific risk assessment or sensitivity analysis methods used in your estimation process?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "How do you handle changes in scope or project requirements that affect resource estimates?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Collaboration and Stakeholder Involvement",
+    "assessments": [
+      {
+        "question": "Who are the key stakeholders involved in the resource estimation process?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "How do you ensure collaboration and communication among project managers, resource managers, and other relevant teams?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Are client or external resource requirements considered in your estimates?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Reporting and Documentation",
+    "assessments": [
+      {
+        "question": "What documentation and reporting mechanisms are in place to capture and communicate resource estimates?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "How often are resource estimates reviewed and updated throughout a project's lifecycle?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Do you maintain a historical record of resource estimates for future reference and learning?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Challenges and Improvement",
+    "assessments": [
+      {
+        "question": "What are the common challenges or pain points you encounter in resource estimation?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "How do you address these challenges or mitigate risks associated with resource estimation?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Do you have a process for continuous improvement in resource estimation practices?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Metrics and Performance Measurement",
+    "assessments": [
+      {
+        "question": "What key metrics or KPIs do you use to measure the accuracy and performance of your resource estimates?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "How do you evaluate the success of resource estimation in meeting project objectives?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Business Requirements",
+    "assessments": [
+      {
+        "question": "Understand the specific business objectives and goals that the infrastructure should support.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Determine the criticality of different services and applications to prioritize resource allocation.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Workload Analysis",
+    "assessments": [
+      {
+        "question": "Identify the types and volumes of workloads (e.g., web services, databases, applications) that the infrastructure will host.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Analyze the performance requirements and resource utilization patterns of these workloads.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Scalability and Growth",
+    "assessments": [
+      {
+        "question": "Determine the expected growth rate and scalability requirements over the project's lifecycle.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Plan for horizontal and vertical scalability to accommodate increased demand.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Availability and Redundancy",
+    "assessments": [
+      {
+        "question": "Define the required level of availability and redundancy based on business continuity needs.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Consider High Availability (HA) solutions, load balancing, failover mechanisms, and disaster recovery.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Infrastructure Components",
+    "assessments": [
+      {
+        "question": "Evaluate server hardware, network infrastructure, storage solutions, and data center facilities.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Specify the required capacity, specifications, and configurations for each component.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Network Architecture",
+    "assessments": [
+      {
+        "question": "Design the network topology, including LAN, WAN, VPN, and internet connectivity.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Consider bandwidth requirements, traffic patterns, and security measures.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Security Requirements",
+    "assessments": [
+      {
+        "question": "Define security policies, access controls, encryption, intrusion detection, and firewall requirements.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Ensure compliance with industry standards and regulations.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Data Management",
+    "assessments": [
+      {
+        "question": "Plan for data storage, backup, and retention policies.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Determine data encryption, replication, and archival needs.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Virtualization and Cloud Integration",
+    "assessments": [
+      {
+        "question": "Assess the suitability of virtualization technologies or cloud services to optimize resource utilization and flexibility.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,2526 @@
+{
+  "Index": [
+    {
+      "#": 1,
+      "Workshops Required by Subject Areas": "Opportunity Qualification",
+      "Bucket": "Prospect Identification and Qualification",
+      "Recommended SMEs": "Business Head, Finance, BID Mgmt, Team, Solutioning, Sales & Delivery Head"
+    },
+    {
+      "#": 2,
+      "Workshops Required by Subject Areas": "Communication & Collaboration",
+      "Bucket": "Response Preparation and Submission",
+      "Recommended SMEs": "Process Head & BID Team"
+    },
+    {
+      "#": 3,
+      "Workshops Required by Subject Areas": "RFI to RFP Response Mgmt.",
+      "Bucket": "Response Preparation and Submission",
+      "Recommended SMEs": "Solutioning, Process Head & BID Team"
+    },
+    {
+      "#": 4,
+      "Workshops Required by Subject Areas": "Costing & Budgeting",
+      "Bucket": "Response Preparation and Submission",
+      "Recommended SMEs": "Solutioning, Finance, Delivery, Sales, Process SMEs"
+    },
+    {
+      "#": 5,
+      "Workshops Required by Subject Areas": "Estimation (Resource, Non-Resource & Infra)",
+      "Bucket": "Response Preparation and Submission",
+      "Recommended SMEs": "Delivery, Solutioning"
+    },
+    {
+      "#": 6,
+      "Workshops Required by Subject Areas": "Risks & Issues",
+      "Bucket": "Response Preparation and Submission",
+      "Recommended SMEs": "Process Head & BID Team"
+    },
+    {
+      "#": 7,
+      "Workshops Required by Subject Areas": "Infrastructure Estimation",
+      "Bucket": "Response Preparation and Submission",
+      "Recommended SMEs": "Infrastructure SME"
+    },
+    {
+      "#": 8,
+      "Workshops Required by Subject Areas": "AMS Estimation",
+      "Bucket": "Response Preparation and Submission",
+      "Recommended SMEs": "Delivery, Solutioning"
+    },
+    {
+      "#": 9,
+      "Workshops Required by Subject Areas": "Business Processes",
+      "Bucket": "Technical Assessment and Solution Design",
+      "Recommended SMEs": "Process Head"
+    },
+    {
+      "#": 10,
+      "Workshops Required by Subject Areas": "ITSM Capabilities",
+      "Bucket": "Technical Assessment and Solution Design",
+      "Recommended SMEs": "Process Head"
+    },
+    {
+      "#": 11,
+      "Workshops Required by Subject Areas": "Application Mgmt.",
+      "Bucket": "Technical Assessment and Solution Design",
+      "Recommended SMEs": "Delivery, Solutioning"
+    },
+    {
+      "#": 12,
+      "Workshops Required by Subject Areas": "End User Computing",
+      "Bucket": "Technical Assessment and Solution Design",
+      "Recommended SMEs": "Infra Delivery, Solutioning"
+    },
+    {
+      "#": 13,
+      "Workshops Required by Subject Areas": "Information Security",
+      "Bucket": "Technical Assessment and Solution Design",
+      "Recommended SMEs": "Security, Delivery & Solutioning"
+    },
+    {
+      "#": 14,
+      "Workshops Required by Subject Areas": "CSIP & Transformation",
+      "Bucket": "Technical Assessment and Solution Design",
+      "Recommended SMEs": "Process, Delivery & Solutioning"
+    },
+    {
+      "#": 15,
+      "Workshops Required by Subject Areas": "Infrastructure Assessment",
+      "Bucket": "Technical Assessment and Solution Design",
+      "Recommended SMEs": "Infrastructure SME"
+    },
+    {
+      "#": 16,
+      "Workshops Required by Subject Areas": "AMS Assessment",
+      "Bucket": "Technical Assessment and Solution Design",
+      "Recommended SMEs": "Delivery, Solutioning"
+    },
+    {
+      "#": 17,
+      "Workshops Required by Subject Areas": "Contracting & Legal Compliance",
+      "Bucket": "Contracting and Legal Compliance",
+      "Recommended SMEs": "CMC"
+    },
+    {
+      "#": 18,
+      "Workshops Required by Subject Areas": "Handover --> Sales to Delivery",
+      "Bucket": "Post-Award Transition and Assessment",
+      "Recommended SMEs": "Solutioning, Sales, Process, Delivery, Quality Mgmt."
+    },
+    {
+      "#": 19,
+      "Workshops Required by Subject Areas": "Transition",
+      "Bucket": "Post-Award Transition and Assessment",
+      "Recommended SMEs": "Delivery, Solutioning"
+    }
+  ],
+  "Communication & Collaboration": [
+    {
+      "0": "Rating Description",
+      "__EMPTY": "Section",
+      "Communication & Collaboration": "Question",
+      "__EMPTY_1": "Response from Aspire",
+      "__EMPTY_2": "Tools Used",
+      "__EMPTY_3": "Templates & \r\nDocuments",
+      "#DIV/0!": "Maturity Rating"
+    },
+    {
+      "0": " ",
+      "__EMPTY": "General Information",
+      "Communication & Collaboration": "Can you provide an overview of your organization's approach to internal team collaboration and communication during the preparation and response to a new RFP?"
+    },
+    {
+      "0": " ",
+      "__EMPTY": "Team Structure and Roles",
+      "Communication & Collaboration": "How are teams structured for RFP responses, and what are the key roles within these teams?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "Are there designated team leads or coordinators responsible for overseeing collaboration and communication?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "How do you assign specific responsibilities and tasks to team members?"
+    },
+    {
+      "0": " ",
+      "__EMPTY": "Communication Tools and Platforms",
+      "Communication & Collaboration": "What communication tools and platforms do you utilize for collaboration during RFP responses?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "Are there specific project management or collaboration software tools in use?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "How do you ensure that all team members have access to and are proficient in using these tools?"
+    },
+    {
+      "0": " ",
+      "__EMPTY": "Information Sharing and Access",
+      "Communication & Collaboration": "How is information shared and accessed within and across different teams during the RFP process?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "Are there centralized repositories or document management systems for RFP-related content?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "What measures are in place to ensure data security and confidentiality?"
+    },
+    {
+      "0": " ",
+      "__EMPTY": "Communication Protocols",
+      "Communication & Collaboration": "Do you have established communication protocols or guidelines for RFP-related discussions?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "How often are team meetings or updates scheduled, and what is their format?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "Are there escalation procedures for addressing critical issues or roadblocks?"
+    },
+    {
+      "0": " ",
+      "__EMPTY": "Cross-Functional Collaboration",
+      "Communication & Collaboration": "How do different functional teams collaborate, such as sales, technical, legal, and finance, during the RFP response?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "Are there mechanisms to facilitate cross-functional alignment and information sharing?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "How are conflicting viewpoints or requirements resolved within cross-functional teams?"
+    },
+    {
+      "0": " ",
+      "__EMPTY": "Document Version Control",
+      "Communication & Collaboration": "How do you manage document version control and track changes within RFP responses?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "Are there designated individuals responsible for maintaining version control?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "How are final documents approved and signed off by relevant stakeholders?"
+    },
+    {
+      "0": " ",
+      "__EMPTY": "Timeline and Deadlines",
+      "Communication & Collaboration": "How do you set and manage timelines and deadlines for RFP response tasks?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "Are there processes for monitoring progress and ensuring timely submissions?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "How do you handle last-minute changes or revisions to meet deadlines?"
+    },
+    {
+      "0": " ",
+      "__EMPTY": "Feedback and Review",
+      "Communication & Collaboration": "Can you describe the process for obtaining feedback and reviews from different teams and subject matter experts?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "How are feedback and suggestions incorporated into the RFP response?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "Who has the final authority to approve the response before submission?"
+    },
+    {
+      "0": " ",
+      "__EMPTY": "Lessons Learned and Improvement",
+      "Communication & Collaboration": "Do you conduct post-RFP assessments to capture lessons learned and identify areas for improvement in collaboration and communication?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "Can you share examples of improvements made based on previous RFP experiences?"
+    },
+    {
+      "0": " ",
+      "__EMPTY": "Challenges and Mitigation",
+      "Communication & Collaboration": "What challenges or obstacles do you encounter when managing internal team collaboration and communication during RFPs?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "How do you address these challenges or mitigate communication gaps?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "Are there specific areas within team collaboration that require special attention or improvement?"
+    },
+    {
+      "0": " ",
+      "__EMPTY": "Technology and Training",
+      "Communication & Collaboration": "Do you provide training or guidance to team members on effective collaboration and communication tools and practices?"
+    },
+    {
+      "0": " ",
+      "Communication & Collaboration": "How do you ensure that team members stay updated on the latest technologies and tools?"
+    }
+  ],
+  "Opportunity Qualification": [
+    {
+      "__EMPTY": "Section",
+      "Opportunity Qualification": "Question",
+      "__EMPTY_1": "Response from Aspire"
+    },
+    {
+      "__EMPTY": "General Assessment",
+      "Opportunity Qualification": "How do you identify and track RFIs and RFPs from potential clients?"
+    },
+    {
+      "__EMPTY": "RFI Assessment",
+      "Opportunity Qualification": "Who is responsible for monitoring and evaluating RFIs within your organization?"
+    },
+    {
+      "Opportunity Qualification": "Can you describe your process for analyzing RFIs and determining whether to respond?"
+    },
+    {
+      "Opportunity Qualification": "What criteria or factors are considered when assessing the suitability of an RFI for a response?"
+    },
+    {
+      "Opportunity Qualification": "How do you evaluate the alignment of the RFI with your organization's capabilities and expertise?"
+    },
+    {
+      "Opportunity Qualification": "What tools or systems are currently used for managing RFI documentation and responses?"
+    },
+    {
+      "Opportunity Qualification": "Are there specific industries or types of projects that you prioritize when assessing RFIs?"
+    },
+    {
+      "Opportunity Qualification": "How do you handle client interactions and clarification requests during the RFI assessment phase?"
+    },
+    {
+      "Opportunity Qualification": "How are RFI response teams typically formed and staffed?"
+    },
+    {
+      "Opportunity Qualification": "What is the typical timeline for making a decision on whether to respond to an RFI?"
+    },
+    {
+      "__EMPTY": "RFP Assessment",
+      "Opportunity Qualification": "Who is responsible for managing the RFP assessment process within your organization?"
+    },
+    {
+      "Opportunity Qualification": "Can you describe your process for RFP intake, review, and assessment?"
+    },
+    {
+      "Opportunity Qualification": "What criteria or factors are considered when assessing the suitability of an RFP for a response?"
+    },
+    {
+      "Opportunity Qualification": "How do you determine whether to pursue an RFP and allocate resources for its response?"
+    },
+    {
+      "Opportunity Qualification": "How are risks and potential challenges associated with the RFP assessed and mitigated?"
+    },
+    {
+      "Opportunity Qualification": "What mechanisms are in place for tracking and reporting on the status of RFP assessments?"
+    },
+    {
+      "Opportunity Qualification": "Can you provide insights into your approach to understanding and addressing the client's needs and expectations in RFP assessments?"
+    },
+    {
+      "Opportunity Qualification": "How do you ensure compliance with RFP requirements and deadlines during the assessment phase?"
+    },
+    {
+      "Opportunity Qualification": "What is the typical timeline for making a decision on whether to proceed with an RFP response?"
+    },
+    {
+      "Opportunity Qualification": "Are there specific industries or types of projects that you prioritize when assessing RFPs?"
+    },
+    {
+      "__EMPTY": "Technology and Tools",
+      "Opportunity Qualification": "What technology or tools do you use to streamline the assessment and qualification of RFIs and RFPs?"
+    },
+    {
+      "Opportunity Qualification": "How do these tools assist in tracking, organizing, and evaluating incoming RFIs and RFPs?"
+    },
+    {
+      "__EMPTY": "Knowledge Management",
+      "Opportunity Qualification": "Do you have a knowledge base or repository of past RFIs and RFPs to aid in the assessment process?"
+    },
+    {
+      "Opportunity Qualification": "How is this knowledge base used to inform your RFI and RFP assessments?"
+    },
+    {
+      "__EMPTY": "Continuous Improvement",
+      "Opportunity Qualification": "Do you have a process for continuous improvement in the assessment and qualification of RFIs and RFPs?"
+    },
+    {
+      "Opportunity Qualification": "How do you capture lessons learned from previous assessments to enhance future decision-making?"
+    },
+    {
+      "__EMPTY": "Challenges and Success Factors",
+      "Opportunity Qualification": "What challenges or obstacles do you typically encounter when assessing and qualifying RFIs and RFPs?"
+    },
+    {
+      "Opportunity Qualification": "What are the critical success factors that contribute to effective RFI and RFP assessment and qualification?"
+    },
+    {
+      "__EMPTY": "Metrics and Reporting",
+      "Opportunity Qualification": "What key metrics or KPIs do you use to measure the effectiveness of your RFI and RFP assessment processes?"
+    },
+    {
+      "Opportunity Qualification": "How often do you generate reports or analysis related to RFI and RFP assessment performance?"
+    }
+  ],
+  "RFI to RFP Response Mgmt.": [
+    {
+      "__EMPTY": "Section",
+      "RFI to RFP Response Mgmt.": "Question",
+      "__EMPTY_1": "Response from Aspire"
+    },
+    {
+      "__EMPTY": "Pre-sales and Bid Management",
+      "RFI to RFP Response Mgmt.": "How do you identify potential opportunities for pre-sales efforts?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "What criteria do you use to prioritize leads or opportunities for further pursuit?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "How is the pre-sales team structured, and what are their key responsibilities?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "Do you have a dedicated bid management team, or is bid management integrated into pre-sales?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "Can you describe your approach to pre-sales qualification and lead nurturing?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "What tools or systems are currently used for lead and opportunity tracking?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "How do you determine the feasibility and alignment of potential opportunities with your organization's capabilities?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "What are the typical timelines for progressing from pre-sales to bid preparation?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "How do you handle pre-sales documentation and communication with potential clients?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "What metrics or KPIs do you use to evaluate pre-sales and lead management effectiveness?"
+    },
+    {
+      "__EMPTY": "RFI Handling",
+      "RFI to RFP Response Mgmt.": "How do you identify and track Requests for Information (RFIs) from potential clients?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "Who is responsible for monitoring and evaluating RFIs within your organization?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "Can you describe your process for analyzing RFIs and determining whether to respond?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "What criteria or factors are considered when assessing the suitability of an RFI for a response?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "How do you evaluate the alignment of the RFI with your organization's capabilities and expertise?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "What tools or systems do you use for managing RFI documentation and responses?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "Are there specific industries or types of projects that you prioritize when handling RFIs?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "How do you handle client interactions and clarification requests during the RFI handling phase?"
+    },
+    {
+      "__EMPTY": "RFP Management",
+      "RFI to RFP Response Mgmt.": "How do you identify and track Requests for Proposals (RFPs) from potential clients?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "Who is responsible for managing the RFP process within your organization?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "Can you describe your process for RFP intake, review, and assessment?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "What criteria or factors are considered when assessing the suitability of an RFP for a response?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "How do you determine whether to pursue an RFP and allocate resources for its response?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "How are risks and potential challenges associated with the RFP assessed and mitigated?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "What mechanisms are in place for tracking and reporting on the status of RFP assessments?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "Can you provide insights into your approach to understanding and addressing the client's needs and expectations in RFP assessments?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "How do you ensure compliance with RFP requirements and deadlines during the assessment phase?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "What is the typical timeline for making a decision on whether to proceed with an RFP response?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "Are there specific industries or types of projects that you prioritize when managing RFPs?"
+    },
+    {
+      "__EMPTY": "RFP Response",
+      "RFI to RFP Response Mgmt.": "Who leads the development of RFP responses within your organization?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "How do you approach the initial scoping and planning of RFP responses?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "Can you describe your RFP content creation and review workflows?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "What tools or systems are used for document collaboration and version control during RFP responses?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "How are technical and solution components addressed in RFP responses?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "What strategies do you employ to showcase your unique value proposition in RFP responses?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "How do you ensure consistency in formatting and branding across RFP responses?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "How are client references and case studies incorporated into RFP responses?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "How do you manage and address proposal feedback and revisions?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "What post-submission activities are undertaken to learn from past RFP responses and improve future ones?"
+    },
+    {
+      "__EMPTY": "Bid Winning and Project Initiation",
+      "RFI to RFP Response Mgmt.": "Can you describe your process for tracking and monitoring the success of RFP responses and bid wins?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "What steps are taken to transition from the bid winning phase to project initiation and execution?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "How are client expectations and commitments established and communicated post-bid win?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "Who is responsible for ensuring a smooth transition from the sales/bid phase to project delivery?"
+    },
+    {
+      "__EMPTY": "Reporting and Documentation",
+      "RFI to RFP Response Mgmt.": "What documentation and reporting mechanisms are in place to capture and communicate RFI, RFP, and bid-related activities?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "How often are RFI, RFP, and bid-related processes reviewed and updated for improvement?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "Do you maintain a historical record of RFI, RFP, and bid-related documents for future reference and learning?"
+    },
+    {
+      "__EMPTY": "Challenges and Improvement",
+      "RFI to RFP Response Mgmt.": "What are the common challenges or pain points you encounter during the RFI to RFP to Bid winning cycle?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "How do you address these challenges or mitigate risks associated with this cycle?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "Do you have a process for continuous improvement in your RFI, RFP, and bid-winning practices?"
+    },
+    {
+      "__EMPTY": "Metrics and Performance Measurement",
+      "RFI to RFP Response Mgmt.": "What key metrics or KPIs do you use to measure the effectiveness and success of your RFI to RFP to Bid winning cycle?"
+    },
+    {
+      "RFI to RFP Response Mgmt.": "How do you evaluate the overall performance and efficiency of your RFI, RFP, and bid-winning processes?"
+    }
+  ],
+  "Costing & Budgeting": [
+    {
+      "__EMPTY": "Section",
+      "Costing & Budgeting": "Question",
+      "__EMPTY_1": "Response from Aspire"
+    },
+    {
+      "__EMPTY": "Cost Estimation and Budgeting Process",
+      "Costing & Budgeting": "Can you provide an overview of your organization's typical project portfolio and the types of projects you handle?"
+    },
+    {
+      "__EMPTY": "Cost Estimation and Budgeting Process",
+      "Costing & Budgeting": "What is your current process for cost estimation when preparing proposals or planning projects?"
+    },
+    {
+      "Costing & Budgeting": "How early in the project lifecycle do you begin cost estimation and budgeting activities?"
+    },
+    {
+      "Costing & Budgeting": "Who is primarily responsible for cost estimation and budgeting within your organization?"
+    },
+    {
+      "Costing & Budgeting": "Are there specific methodologies or frameworks you follow for cost estimation and budgeting (e.g., bottom-up, top-down, parametric)?"
+    },
+    {
+      "Costing & Budgeting": "What tools or software do you use to support cost estimation and budgeting?"
+    },
+    {
+      "__EMPTY": "Cost Components and Factors",
+      "Costing & Budgeting": "What components do you include in your cost estimates (e.g., labor, materials, equipment, overhead)?"
+    },
+    {
+      "Costing & Budgeting": "How do you determine labor costs and staffing levels required for a project?"
+    },
+    {
+      "Costing & Budgeting": "Do you consider indirect costs, such as overhead and administrative expenses, in your budgeting?"
+    },
+    {
+      "Costing & Budgeting": "How are contingency funds factored into your budget estimates, and what triggers their use?"
+    },
+    {
+      "Costing & Budgeting": "What key cost factors and variables are considered during the estimation process?"
+    },
+    {
+      "Costing & Budgeting": "How do you account for uncertainty and risk when estimating project costs and budgets?"
+    },
+    {
+      "Costing & Budgeting": "What role do historical project data and benchmarks play in your cost estimation and budgeting process?"
+    },
+    {
+      "__EMPTY": "Teams and Stakeholders Involved",
+      "Costing & Budgeting": "Who are the key teams and stakeholders involved in the cost estimation and budgeting process?"
+    },
+    {
+      "Costing & Budgeting": "Can you describe the roles and responsibilities of each team or stakeholder in the process?"
+    },
+    {
+      "Costing & Budgeting": "How do you ensure collaboration and communication among project managers, finance teams, and other relevant teams?"
+    },
+    {
+      "Costing & Budgeting": "Are external stakeholders or clients involved in the cost estimation and budgeting process?"
+    },
+    {
+      "__EMPTY": "Review and Approval Process",
+      "Costing & Budgeting": "What is your process for reviewing and approving cost estimates and project budgets?"
+    },
+    {
+      "Costing & Budgeting": "Who has the authority to approve cost estimates and budgets, and what is the approval workflow?"
+    },
+    {
+      "Costing & Budgeting": "How are cost estimates and budgets tracked and managed after approval?"
+    },
+    {
+      "Costing & Budgeting": "Are there specific checkpoints or milestones for cost and budget reviews during a project's lifecycle?"
+    },
+    {
+      "__EMPTY": "Reporting and Documentation",
+      "Costing & Budgeting": "What documentation and reporting mechanisms are in place to capture and communicate cost estimates and budgets?"
+    },
+    {
+      "Costing & Budgeting": "How often are cost estimates and budgets reviewed and updated throughout a project's lifecycle?"
+    },
+    {
+      "Costing & Budgeting": "Do you maintain a historical record of cost estimates and budgets for future reference and learning?"
+    },
+    {
+      "__EMPTY": "Challenges and Improvement",
+      "Costing & Budgeting": "What are the common challenges or pain points you encounter in cost estimation and budgeting?"
+    },
+    {
+      "Costing & Budgeting": "How do you address these challenges or mitigate risks associated with cost estimation and budgeting?"
+    },
+    {
+      "Costing & Budgeting": "Do you have a process for continuous improvement in cost estimation and budgeting practices?"
+    },
+    {
+      "__EMPTY": "Metrics and Performance Measurement",
+      "Costing & Budgeting": "What key metrics or KPIs do you use to measure the accuracy and performance of your cost estimates and budgets?"
+    },
+    {
+      "Costing & Budgeting": "How do you evaluate the success of cost estimation and budgeting in meeting project objectives?"
+    }
+  ],
+  "Resource Estimation": [
+    {
+      "__EMPTY": "Section",
+      "Resource Estimation": "Question",
+      "__EMPTY_1": "Response from Aspire"
+    },
+    {
+      "__EMPTY": "General Information",
+      "Resource Estimation": "Can you provide an overview of your organization's typical project portfolio and the types of projects you handle?"
+    },
+    {
+      "__EMPTY": "Resource Estimation Process",
+      "Resource Estimation": "What is your current process for resource estimation when initiating a new project?"
+    },
+    {
+      "Resource Estimation": "Who is primarily responsible for resource estimation within your organization?"
+    },
+    {
+      "Resource Estimation": "How early in the project lifecycle do you begin resource estimation activities?"
+    },
+    {
+      "Resource Estimation": "Are there specific methodologies or frameworks you follow for resource estimation (e.g., bottom-up, top-down, expert judgment)?"
+    },
+    {
+      "Resource Estimation": "What tools or software do you use to support resource estimation?"
+    },
+    {
+      "Resource Estimation": "Can you describe the key factors and variables considered during resource estimation?"
+    },
+    {
+      "Resource Estimation": "How do you account for project complexity and uncertainty when estimating resources?"
+    },
+    {
+      "Resource Estimation": "What role do historical project data and benchmarks play in your resource estimation process?"
+    },
+    {
+      "__EMPTY": "Resource Categories",
+      "Resource Estimation": "What categories of resources do you typically estimate (e.g., personnel, equipment, software, facilities)?"
+    },
+    {
+      "Resource Estimation": "How do you determine the quantity and type of personnel required for a project?"
+    },
+    {
+      "Resource Estimation": "Do you consider resource availability and allocation across multiple projects during estimation?"
+    },
+    {
+      "Resource Estimation": "How do you estimate and allocate budgetary resources for a project?"
+    },
+    {
+      "Resource Estimation": "Are contingency resources factored into your estimates, and if so, how?"
+    },
+    {
+      "__EMPTY": "Estimation Techniques",
+      "Resource Estimation": "What estimation techniques or models do you employ for different resource categories (e.g., FTEs, time, costs)?"
+    },
+    {
+      "Resource Estimation": "How do you validate and refine resource estimates as a project progresses from initiation to execution?"
+    },
+    {
+      "Resource Estimation": "Do you utilize historical data or industry benchmarks to validate your resource estimates?"
+    },
+    {
+      "Resource Estimation": "Are there specific risk assessment or sensitivity analysis methods used in your estimation process?"
+    },
+    {
+      "Resource Estimation": "How do you handle changes in scope or project requirements that affect resource estimates?"
+    },
+    {
+      "__EMPTY": "Collaboration and Stakeholder Involvement",
+      "Resource Estimation": "Who are the key stakeholders involved in the resource estimation process?"
+    },
+    {
+      "Resource Estimation": "How do you ensure collaboration and communication among project managers, resource managers, and other relevant teams?"
+    },
+    {
+      "Resource Estimation": "Are client or external resource requirements considered in your estimates?"
+    },
+    {
+      "__EMPTY": "Reporting and Documentation",
+      "Resource Estimation": "What documentation and reporting mechanisms are in place to capture and communicate resource estimates?"
+    },
+    {
+      "Resource Estimation": "How often are resource estimates reviewed and updated throughout a project's lifecycle?"
+    },
+    {
+      "Resource Estimation": "Do you maintain a historical record of resource estimates for future reference and learning?"
+    },
+    {
+      "__EMPTY": "Challenges and Improvement",
+      "Resource Estimation": "What are the common challenges or pain points you encounter in resource estimation?"
+    },
+    {
+      "Resource Estimation": "How do you address these challenges or mitigate risks associated with resource estimation?"
+    },
+    {
+      "Resource Estimation": "Do you have a process for continuous improvement in resource estimation practices?"
+    },
+    {
+      "__EMPTY": "Metrics and Performance Measurement",
+      "Resource Estimation": "What key metrics or KPIs do you use to measure the accuracy and performance of your resource estimates?"
+    },
+    {
+      "Resource Estimation": "How do you evaluate the success of resource estimation in meeting project objectives?"
+    }
+  ],
+  "Business Processes": [
+    {
+      "__EMPTY": "Section",
+      "Business Processes": "Question",
+      "__EMPTY_1": "Response from Aspire"
+    },
+    {
+      "__EMPTY": "Process Documentation",
+      "Business Processes": "Do you have documented processes for key business functions (e.g., sales, marketing, operations)?"
+    },
+    {
+      "Business Processes": "Are these process documents regularly updated and reviewed?"
+    },
+    {
+      "__EMPTY": "Process Ownership",
+      "Business Processes": "Who owns and is responsible for each major business process in your organization?"
+    },
+    {
+      "Business Processes": "How are process owners held accountable for process performance?"
+    },
+    {
+      "__EMPTY": "Process Performance Measurement",
+      "Business Processes": "Do you regularly measure and track the performance of your business processes?"
+    },
+    {
+      "Business Processes": "What key performance indicators (KPIs) do you use to assess process effectiveness?"
+    },
+    {
+      "__EMPTY": "Process Improvement Initiatives",
+      "Business Processes": "Have you initiated process improvement projects in the past?"
+    },
+    {
+      "Business Processes": "How often do you review and optimize your business processes?"
+    },
+    {
+      "__EMPTY": "Change Management",
+      "Business Processes": "How do you manage changes to existing processes or the introduction of new processes?"
+    },
+    {
+      "Business Processes": "Is there a structured change management process in place?"
+    },
+    {
+      "__EMPTY": "Technology Utilization",
+      "Business Processes": "What technologies and tools do you use to support your business processes?"
+    },
+    {
+      "Business Processes": "Are these technologies integrated to streamline processes?"
+    },
+    {
+      "__EMPTY": "Data and Information Management",
+      "Business Processes": "How is data collected, managed, and utilized within your business processes?"
+    },
+    {
+      "Business Processes": "Do you have data quality and data governance practices in place?"
+    },
+    {
+      "__EMPTY": "Resource Allocation",
+      "Business Processes": "How do you allocate resources (human, financial, and technological) to support your business processes?"
+    },
+    {
+      "Business Processes": "Is resource allocation aligned with strategic goals?"
+    },
+    {
+      "__EMPTY": "Risk Management",
+      "Business Processes": "How do you identify, assess, and manage risks associated with your business processes?"
+    },
+    {
+      "Business Processes": "Do you have contingency plans for process disruptions?"
+    },
+    {
+      "__EMPTY": "Compliance and Regulatory Adherence",
+      "Business Processes": "Are your business processes designed to comply with industry regulations and standards? "
+    },
+    {
+      "Business Processes": "How do you ensure ongoing compliance?"
+    },
+    {
+      "__EMPTY": "Training and Skill Development",
+      "Business Processes": "Do you provide training and skill development opportunities to employees involved in business processes?"
+    },
+    {
+      "Business Processes": "How do you ensure that employees are equipped with the necessary skills?"
+    },
+    {
+      "__EMPTY": "Customer and Stakeholder Feedback",
+      "Business Processes": "How do you gather feedback from customers and stakeholders regarding your business processes?"
+    },
+    {
+      "Business Processes": "How does this feedback inform process improvements?"
+    },
+    {
+      "__EMPTY": "Cross-Functional Collaboration",
+      "Business Processes": "How well do different departments and teams collaborate to support end-to-end processes?"
+    },
+    {
+      "Business Processes": "Are there mechanisms in place to encourage cross-functional collaboration?"
+    },
+    {
+      "__EMPTY": "Benchmarking",
+      "Business Processes": "Do you compare your process maturity with industry benchmarks or best practices?"
+    },
+    {
+      "Business Processes": "What areas of improvement have been identified through benchmarking?"
+    },
+    {
+      "__EMPTY": "Continuous Improvement Culture",
+      "Business Processes": "How would you describe the overall culture within your organization regarding continuous improvement and innovation in processes?"
+    },
+    {
+      "Business Processes": "What initiatives are in place to foster a culture of continuous improvement?"
+    },
+    {
+      "__EMPTY": "Future Plans",
+      "Business Processes": "What are your future plans for enhancing process maturity and efficiency?"
+    },
+    {
+      "Business Processes": "Are there specific goals or milestones you aim to achieve?"
+    }
+  ],
+  "ITSM Capabilities": [
+    {
+      "__EMPTY": "Section",
+      "ITSM Capabilities": "Question",
+      "__EMPTY_1": "Response from Aspire"
+    },
+    {
+      "__EMPTY": "General ITSM Information",
+      "ITSM Capabilities": "What is the current status of your ITSM implementation?"
+    },
+    {
+      "ITSM Capabilities": "What ITSM framework or methodology are you currently using (e.g., ITIL, COBIT, Agile, etc.)?"
+    },
+    {
+      "ITSM Capabilities": "Who is responsible for overseeing ITSM within your organization?"
+    },
+    {
+      "ITSM Capabilities": "Can you provide an overview of your IT infrastructure and the scale of IT operations (e.g., number of users, devices, applications)?"
+    },
+    {
+      "ITSM Capabilities": "What ITSM tools or software are currently in use for managing IT services and incidents?"
+    },
+    {
+      "ITSM Capabilities": "Do you have documented ITSM policies and procedures in place?"
+    },
+    {
+      "ITSM Capabilities": "How do you measure the success of your ITSM efforts?"
+    },
+    {
+      "__EMPTY": "Incident Management",
+      "ITSM Capabilities": "Describe your current incident management process."
+    },
+    {
+      "ITSM Capabilities": "How are incidents categorized and prioritized within your organization?"
+    },
+    {
+      "ITSM Capabilities": "What tools or systems are used for incident logging and tracking?"
+    },
+    {
+      "ITSM Capabilities": "What is your average response and resolution time for incidents?"
+    },
+    {
+      "ITSM Capabilities": "Do you have an incident escalation process in place, and if so, how does it work?"
+    },
+    {
+      "ITSM Capabilities": "How do you communicate incident status and updates to end-users?"
+    },
+    {
+      "ITSM Capabilities": "How do you capture and analyze incident data to identify trends and areas for improvement?"
+    },
+    {
+      "__EMPTY": "Change Management",
+      "ITSM Capabilities": "Can you describe your current change management process?"
+    },
+    {
+      "ITSM Capabilities": "How are proposed changes evaluated and approved?"
+    },
+    {
+      "ITSM Capabilities": "What is your change implementation process, and how do you handle rollback plans?"
+    },
+    {
+      "ITSM Capabilities": "How do you communicate upcoming changes to relevant stakeholders?"
+    },
+    {
+      "ITSM Capabilities": "How are change-related risks and impacts assessed and mitigated?"
+    },
+    {
+      "ITSM Capabilities": "How do you track and report on the success or failure of implemented changes?"
+    },
+    {
+      "__EMPTY": "Service Request Management",
+      "ITSM Capabilities": "How do you handle service requests from end-users?"
+    },
+    {
+      "ITSM Capabilities": "Are there self-service options available for common service requests?"
+    },
+    {
+      "ITSM Capabilities": "How are service requests categorized and prioritized?"
+    },
+    {
+      "ITSM Capabilities": "What tools or systems are used for service request management?"
+    },
+    {
+      "ITSM Capabilities": "How do you ensure timely fulfillment of service requests?"
+    },
+    {
+      "ITSM Capabilities": "Do you measure and report on the performance of service request fulfillment?"
+    },
+    {
+      "__EMPTY": "Problem Management",
+      "ITSM Capabilities": "Describe your current problem management process."
+    },
+    {
+      "ITSM Capabilities": "How are recurring issues and problems identified and documented?"
+    },
+    {
+      "ITSM Capabilities": "What steps are taken to investigate and resolve underlying problems?"
+    },
+    {
+      "ITSM Capabilities": "Are there known error databases or knowledge repositories in use?"
+    },
+    {
+      "ITSM Capabilities": "How do you prevent the recurrence of known problems?"
+    },
+    {
+      "__EMPTY": "Service Level Management",
+      "ITSM Capabilities": "Do you have defined service level agreements (SLAs) with your business units or customers?"
+    },
+    {
+      "ITSM Capabilities": "How do you measure and report on SLA compliance?"
+    },
+    {
+      "ITSM Capabilities": "What mechanisms do you have in place for SLA review and improvement?"
+    },
+    {
+      "__EMPTY": "Knowledge Management",
+      "ITSM Capabilities": "How do you capture and manage IT knowledge within your organization?"
+    },
+    {
+      "ITSM Capabilities": "Are there documented procedures and knowledge articles available to support IT staff?"
+    },
+    {
+      "ITSM Capabilities": "What tools or systems do you use for knowledge management?"
+    },
+    {
+      "ITSM Capabilities": "How do you ensure knowledge is up-to-date and easily accessible?"
+    },
+    {
+      "__EMPTY": "ITSM Improvement",
+      "ITSM Capabilities": "What recent ITSM improvements or initiatives have you undertaken?"
+    },
+    {
+      "ITSM Capabilities": "Do you conduct regular ITSM maturity assessments or audits?"
+    },
+    {
+      "ITSM Capabilities": "How do you prioritize and plan for ITSM improvements?"
+    },
+    {
+      "ITSM Capabilities": "Are there any specific challenges or pain points you face in ITSM that require attention?"
+    },
+    {
+      "__EMPTY": "ITSM Training and Development",
+      "ITSM Capabilities": "What training and development programs are in place for ITSM staff?"
+    },
+    {
+      "ITSM Capabilities": "How do you ensure that ITSM personnel stay current with industry best practices?"
+    },
+    {
+      "ITSM Capabilities": "Are there certification programs or continuous education opportunities for ITSM professionals?"
+    },
+    {
+      "__EMPTY": "ITSM and Technology",
+      "ITSM Capabilities": "How do you leverage technology, such as AI or automation, to enhance ITSM capabilities?"
+    },
+    {
+      "ITSM Capabilities": "Are there plans to integrate ITSM tools with other systems or platforms?"
+    },
+    {
+      "ITSM Capabilities": "What is your approach to ensuring data security and compliance within ITSM processes?"
+    },
+    {
+      "__EMPTY": "ITSM Future Goals",
+      "ITSM Capabilities": "What are your future goals and objectives for ITSM within your organization?"
+    },
+    {
+      "ITSM Capabilities": "How do you envision ITSM evolving to better support business needs and growth?"
+    },
+    {
+      "__EMPTY": "Metrics and KPIs",
+      "ITSM Capabilities": "What key performance indicators (KPIs) do you use to measure ITSM effectiveness?"
+    },
+    {
+      "ITSM Capabilities": "Can you provide historical data for these KPIs to assess trends?"
+    },
+    {
+      "ITSM Capabilities": "How often do you review and act upon performance metrics?"
+    },
+    {
+      "ITSM Capabilities": "Have KPIs been linked to business outcomes and customer satisfaction?"
+    },
+    {
+      "__EMPTY": "Challenges and Improvement Plans",
+      "ITSM Capabilities": "What are the main challenges or pain points your organization faces in ITSM?"
+    },
+    {
+      "ITSM Capabilities": "Are there any specific plans, initiatives, or projects aimed at improving ITSM capabilities?"
+    },
+    {
+      "ITSM Capabilities": "How do you measure the success of ITSM improvement initiatives?"
+    }
+  ],
+  "Risks & Issues": [
+    {
+      "__EMPTY": "Section",
+      "Risks & Issues": "Question",
+      "__EMPTY_1": "Response from Aspire"
+    },
+    {
+      "__EMPTY": "General Information",
+      "Risks & Issues": "Can you provide an overview of your organization's typical RFI to RFP to Bid winning cycle and the types of projects or opportunities you pursue?"
+    },
+    {
+      "__EMPTY": "Risk Identification",
+      "Risks & Issues": "How do you identify potential risks and issues during the RFI to RFP to Bid winning cycle?"
+    },
+    {
+      "Risks & Issues": "Who is responsible for identifying and documenting risks and issues within your organization?"
+    },
+    {
+      "Risks & Issues": "Are there specific tools or methodologies you use for risk identification?"
+    },
+    {
+      "Risks & Issues": "What categories of risks and issues do you typically consider (e.g., financial, technical, contractual)?"
+    },
+    {
+      "Risks & Issues": "How early in the cycle do you initiate risk identification activities?"
+    },
+    {
+      "Risks & Issues": "Do you involve key stakeholders in the risk identification process?"
+    },
+    {
+      "__EMPTY": "Risk Tracking and Management",
+      "Risks & Issues": "Can you describe your process for tracking and managing identified risks and issues?"
+    },
+    {
+      "Risks & Issues": "How are risks and issues categorized and prioritized for further analysis and response?"
+    },
+    {
+      "Risks & Issues": "What tools or systems do you use for risk tracking and management?"
+    },
+    {
+      "Risks & Issues": "How often are risk assessments and updates conducted throughout the RFI to RFP to Bid winning cycle?"
+    },
+    {
+      "Risks & Issues": "Are there specific metrics or indicators used to monitor risk levels and trends?"
+    },
+    {
+      "Risks & Issues": "What role do risk owners and risk response teams play in managing identified risks and issues?"
+    },
+    {
+      "Risks & Issues": "How do you communicate risk status and mitigation strategies to relevant stakeholders?"
+    },
+    {
+      "Risks & Issues": "Can you provide examples of risk mitigation strategies you've employed in the past?"
+    },
+    {
+      "__EMPTY": "Issue Resolution",
+      "Risks & Issues": "What is your process for addressing and resolving issues that arise during the RFI to RFP to Bid winning cycle?"
+    },
+    {
+      "Risks & Issues": "Who is responsible for leading issue resolution efforts within your organization?"
+    },
+    {
+      "Risks & Issues": "How are issues categorized and prioritized for resolution?"
+    },
+    {
+      "Risks & Issues": "Are there specific tools or systems used for tracking and documenting issue resolution efforts?"
+    },
+    {
+      "Risks & Issues": "How do you communicate issue status and resolutions to relevant stakeholders?"
+    },
+    {
+      "Risks & Issues": "Can you provide examples of successful issue resolution scenarios and their outcomes?"
+    },
+    {
+      "__EMPTY": "Risk Mitigation and Contingency Planning",
+      "Risks & Issues": "How do you approach risk mitigation and contingency planning during the RFI to RFP to Bid winning cycle?"
+    },
+    {
+      "Risks & Issues": "What strategies or actions do you take to reduce the impact and likelihood of identified risks?"
+    },
+    {
+      "Risks & Issues": "How are contingency plans developed and activated when necessary?"
+    },
+    {
+      "Risks & Issues": "Can you provide examples of instances where effective risk mitigation or contingency planning had a significant impact?"
+    },
+    {
+      "__EMPTY": "Lessons Learned and Continuous Improvement",
+      "Risks & Issues": "Do you have a process for capturing lessons learned from risks and issues encountered during the RFI to RFP to Bid winning cycle?"
+    },
+    {
+      "Risks & Issues": "How are these lessons used to inform future risk management practices?"
+    },
+    {
+      "Risks & Issues": "Are there specific initiatives for continuous improvement in risk and issue management?"
+    },
+    {
+      "__EMPTY": "Reporting and Documentation",
+      "Risks & Issues": "What documentation and reporting mechanisms are in place to capture and communicate risks and issues throughout the cycle?"
+    },
+    {
+      "Risks & Issues": "How often are risk and issue logs, reports, and updates shared with relevant stakeholders?"
+    },
+    {
+      "__EMPTY": "Challenges and Improvement",
+      "Risks & Issues": "What are the common challenges or obstacles you encounter in identifying, tracking, and responding to risks and issues during the cycle?"
+    },
+    {
+      "Risks & Issues": "How do you address these challenges or improve your risk and issue management practices?"
+    },
+    {
+      "Risks & Issues": "Are there any specific areas within the RFI to RFP to Bid winning cycle where you face recurring issues or risks?"
+    },
+    {
+      "__EMPTY": "Metrics and Performance Measurement",
+      "Risks & Issues": "What key metrics or KPIs do you use to measure the effectiveness of your risk and issue identification and management efforts?"
+    },
+    {
+      "Risks & Issues": "How do you evaluate the overall performance of your risk and issue management processes during the cycle?"
+    }
+  ],
+  "Application Mgmt.": [
+    {
+      "__EMPTY": "Section",
+      "Application Mgmt.": "Question",
+      "__EMPTY_1": "Response from Aspire"
+    },
+    {
+      "__EMPTY": "General Information",
+      "Application Mgmt.": "Can you provide an overview of your organization's application portfolio and the types of applications you manage?"
+    },
+    {
+      "__EMPTY": "Application Management Assessment Process",
+      "Application Mgmt.": "What is your current process for conducting application management assessments?"
+    },
+    {
+      "Application Mgmt.": "Who is primarily responsible for conducting these assessments within your organization?"
+    },
+    {
+      "Application Mgmt.": "How frequently do you perform application management assessments?"
+    },
+    {
+      "Application Mgmt.": "Are there specific methodologies or frameworks you follow for conducting these assessments (e.g., ITIL, COBIT)?"
+    },
+    {
+      "Application Mgmt.": "What tools or software do you use to support application management assessments?"
+    },
+    {
+      "__EMPTY": "Assessment Objectives",
+      "Application Mgmt.": "What are the primary objectives of your application management assessments?"
+    },
+    {
+      "Application Mgmt.": "How do you determine which applications should be assessed?"
+    },
+    {
+      "Application Mgmt.": "Do you have specific criteria for prioritizing applications for assessment?"
+    },
+    {
+      "__EMPTY": "Assessment Scope",
+      "Application Mgmt.": "What aspects of application management are typically covered in your assessments (e.g., performance, security, compliance)?"
+    },
+    {
+      "Application Mgmt.": "Are there specific areas within application management (e.g., infrastructure, data management) that are emphasized during assessments?"
+    },
+    {
+      "Application Mgmt.": "How do you determine the depth and breadth of assessment for each application?"
+    },
+    {
+      "__EMPTY": "Assessment Criteria and Metrics",
+      "Application Mgmt.": "What criteria and metrics do you use to evaluate the performance, reliability, and effectiveness of applications?"
+    },
+    {
+      "Application Mgmt.": "Do you have benchmarks or industry standards against which you measure application performance?"
+    },
+    {
+      "Application Mgmt.": "How do you assess security and compliance aspects of applications?"
+    },
+    {
+      "Application Mgmt.": "Are there specific KPIs or SLAs used in your assessments?"
+    },
+    {
+      "__EMPTY": "Assessment Teams and Stakeholders",
+      "Application Mgmt.": "Who are the key teams and stakeholders involved in conducting application management assessments?"
+    },
+    {
+      "Application Mgmt.": "Can you describe the roles and responsibilities of each team or stakeholder in the assessment process?"
+    },
+    {
+      "Application Mgmt.": "How do you ensure collaboration and communication among relevant teams during assessments?"
+    },
+    {
+      "Application Mgmt.": "Are business units or end-users involved in the assessment process?"
+    },
+    {
+      "__EMPTY": "Assessment Reporting and Documentation",
+      "Application Mgmt.": "What documentation and reporting mechanisms are in place to capture and communicate assessment findings?"
+    },
+    {
+      "Application Mgmt.": "How are assessment reports used to inform decision-making and action plans?"
+    },
+    {
+      "Application Mgmt.": "How often are assessment reports reviewed and updated for improvement?"
+    },
+    {
+      "__EMPTY": "Assessment Follow-Up and Improvement",
+      "Application Mgmt.": "How do you address and prioritize the remediation of issues or findings identified during assessments?"
+    },
+    {
+      "Application Mgmt.": "Do you have a process for continuous improvement based on assessment outcomes?"
+    },
+    {
+      "Application Mgmt.": "Can you provide examples of improvements made as a result of past assessments?"
+    },
+    {
+      "__EMPTY": "Challenges and Improvement",
+      "Application Mgmt.": "What challenges or obstacles do you encounter in conducting application management assessments?"
+    },
+    {
+      "Application Mgmt.": "How do you address these challenges or enhance your assessment practices?"
+    },
+    {
+      "Application Mgmt.": "Are there specific areas within application management where you face recurring issues or concerns?"
+    },
+    {
+      "__EMPTY": "Metrics and Performance Measurement",
+      "Application Mgmt.": "What key metrics or KPIs do you use to measure the effectiveness of your application management assessments?"
+    },
+    {
+      "Application Mgmt.": "How do you evaluate the overall performance of your assessment process and its impact on application management?"
+    }
+  ],
+  "End User Computing": [
+    {
+      "__EMPTY": "Section",
+      "End User Computing": "Question",
+      "__EMPTY_1": "Response from Aspire"
+    },
+    {
+      "__EMPTY": "General Information",
+      "End User Computing": "Can you provide an overview of your organization's approach to End User Computing (EUC) requirements assessments and the types of projects or solutions you typically assess?"
+    },
+    {
+      "__EMPTY": "EUC Requirement Assessment Process",
+      "End User Computing": "What is your current process for conducting EUC requirement assessments?"
+    },
+    {
+      "End User Computing": "Who is primarily responsible for conducting these assessments within your organization?"
+    },
+    {
+      "End User Computing": "How frequently do you perform EUC requirement assessments?"
+    },
+    {
+      "End User Computing": "Are there specific methodologies or frameworks you follow for conducting these assessments?"
+    },
+    {
+      "__EMPTY": "Assessment Objectives",
+      "End User Computing": "What are the primary objectives of your EUC requirement assessments?"
+    },
+    {
+      "End User Computing": "How do you ensure alignment between your assessments and the specific EUC needs and goals of your organization?"
+    },
+    {
+      "End User Computing": "Do you prioritize different EUC requirements based on project scope or criticality?"
+    },
+    {
+      "__EMPTY": "Assessment Scope",
+      "End User Computing": "Can you describe the scope of EUC requirements that you typically assess?"
+    },
+    {
+      "End User Computing": "Are there specific EUC components or aspects (e.g., hardware, software, user experience) that are emphasized during assessments?"
+    },
+    {
+      "End User Computing": "How do you determine the depth and breadth of assessment for each EUC requirement?"
+    },
+    {
+      "__EMPTY": "Assessment Criteria and Metrics",
+      "End User Computing": "What criteria and metrics do you use to evaluate the suitability and compliance of EUC solutions with assessed requirements?"
+    },
+    {
+      "End User Computing": "Are there industry standards or best practices that you follow when conducting EUC requirement assessments?"
+    },
+    {
+      "End User Computing": "How do you assess the usability and user-friendliness of EUC solutions in your assessments?"
+    },
+    {
+      "__EMPTY": "Assessment Tools and Methodologies",
+      "End User Computing": "What tools, methodologies, or frameworks do you use to conduct EUC requirement assessments?"
+    },
+    {
+      "End User Computing": "Are there automated assessment tools or scripts that you rely on to streamline the assessment process?"
+    },
+    {
+      "__EMPTY": "Assessment Teams and Stakeholders",
+      "End User Computing": "Who are the key teams and stakeholders involved in conducting EUC requirement assessments?"
+    },
+    {
+      "End User Computing": "Can you describe the roles and responsibilities of each team or stakeholder in the assessment process?"
+    },
+    {
+      "End User Computing": "How do you ensure collaboration and communication among relevant teams during assessments?"
+    },
+    {
+      "End User Computing": "Are end-users or representatives from business units involved in the assessment process for EUC requirements?"
+    },
+    {
+      "__EMPTY": "Reporting and Documentation",
+      "End User Computing": "What documentation and reporting mechanisms are in place to capture and communicate EUC requirement assessment findings?"
+    },
+    {
+      "End User Computing": "How do assessment reports contribute to decision-making and EUC planning within your organization?"
+    },
+    {
+      "End User Computing": "Can you provide examples of how assessment findings have influenced EUC solution selection or implementation?"
+    },
+    {
+      "__EMPTY": "Assessment Follow-Up and Improvement",
+      "End User Computing": "How do you address and prioritize the fulfillment of identified EUC requirements following assessments?"
+    },
+    {
+      "End User Computing": "Do you have a process for continuous improvement in your assessment practices based on assessment outcomes?"
+    },
+    {
+      "End User Computing": "Can you share instances where your assessments led to improvements in EUC solutions or processes?"
+    },
+    {
+      "__EMPTY": "Challenges and Improvement",
+      "End User Computing": "What challenges or obstacles do you encounter when conducting EUC requirement assessments?"
+    },
+    {
+      "End User Computing": "How do you address these challenges or enhance your assessment practices?"
+    },
+    {
+      "End User Computing": "Are there specific areas within EUC where you face recurring issues or concerns during assessments?"
+    },
+    {
+      "__EMPTY": "Metrics and Performance Measurement",
+      "End User Computing": "What key metrics or KPIs do you use to measure the effectiveness of your EUC requirement assessments?"
+    },
+    {
+      "End User Computing": "How do you evaluate the overall performance of your assessment process and its impact on the quality of EUC solutions and user satisfaction?"
+    },
+    {
+      "__EMPTY": "Device mix",
+      "End User Computing": "What are the different types of devices being used by end-users such as desktops, laptops, smartphones, tablets?"
+    },
+    {
+      "End User Computing": "Do you consider the age and performance of devices to determine if upgrades or replacements are necessary?"
+    },
+    {
+      "End User Computing": "Is BYOD permitted? How do you evaluate policies and security measures to protect corporate data on personal devices.\r\n"
+    },
+    {
+      "__EMPTY": "Remote access",
+      "End User Computing": "Is remote working allowed? how remote access to EUC devices and resources is managed?"
+    }
+  ],
+  "Information Security": [
+    {
+      "__EMPTY": "Section",
+      "Information Security": "Question",
+      "__EMPTY_1": "Response from Aspire"
+    },
+    {
+      "__EMPTY": "General Information",
+      "Information Security": "Can you provide an overview of your organization's approach to information security assessments and the types of assessments you typically perform?"
+    },
+    {
+      "__EMPTY": "InfoSec Assessment Process",
+      "Information Security": "What is your current process for conducting information security assessments?"
+    },
+    {
+      "Information Security": "Who is primarily responsible for conducting these assessments within your organization?"
+    },
+    {
+      "Information Security": "How frequently do you perform information security assessments?"
+    },
+    {
+      "Information Security": "Are there specific methodologies or frameworks you follow for conducting these assessments (e.g., ISO 27001, NIST Cybersecurity Framework)?"
+    },
+    {
+      "__EMPTY": "Assessment Objectives",
+      "Information Security": "What are the primary objectives of your information security assessments?"
+    },
+    {
+      "Information Security": "How do you ensure alignment between your assessments and the specific security needs and goals of your organization?"
+    },
+    {
+      "Information Security": "Do you prioritize different security areas or assets based on risk or criticality?"
+    },
+    {
+      "__EMPTY": "Assessment Scope",
+      "Information Security": "Can you describe the scope of information security assessments that you typically perform (e.g., network security, application security, data protection)?"
+    },
+    {
+      "Information Security": "Are there specific security controls or aspects (e.g., access management, vulnerability management) that are emphasized during assessments?"
+    },
+    {
+      "Information Security": "How do you determine the depth and breadth of assessment for each security area?"
+    },
+    {
+      "__EMPTY": "Assessment Criteria and Metrics",
+      "Information Security": "What criteria and metrics do you use to evaluate the effectiveness and compliance of security controls and practices?"
+    },
+    {
+      "Information Security": "Are there industry standards or best practices that you follow when conducting information security assessments?"
+    },
+    {
+      "Information Security": "How do you assess the maturity of your security posture and practices?"
+    },
+    {
+      "__EMPTY": "Assessment Tools and Methodologies",
+      "Information Security": "What tools, methodologies, or frameworks do you use to conduct information security assessments?"
+    },
+    {
+      "Information Security": "Are there automated security assessment tools or vulnerability scanners that you rely on to streamline the assessment process?"
+    },
+    {
+      "__EMPTY": "Assessment Teams and Stakeholders",
+      "Information Security": "Who are the key teams and stakeholders involved in conducting information security assessments?"
+    },
+    {
+      "Information Security": "Can you describe the roles and responsibilities of each team or stakeholder in the assessment process?"
+    },
+    {
+      "Information Security": "How do you ensure collaboration and communication among relevant teams during assessments?"
+    },
+    {
+      "Information Security": "Are external auditors or third-party assessors involved in your assessments?"
+    },
+    {
+      "__EMPTY": "Reporting and Documentation",
+      "Information Security": "What documentation and reporting mechanisms are in place to capture and communicate assessment findings?"
+    },
+    {
+      "Information Security": "How do assessment reports contribute to decision-making and security planning within your organization?"
+    },
+    {
+      "Information Security": "Can you provide examples of how assessment findings have influenced security control implementations or risk mitigation strategies?"
+    },
+    {
+      "__EMPTY": "Assessment Follow-Up and Improvement",
+      "Information Security": "How do you address and prioritize the remediation of identified security vulnerabilities or weaknesses following assessments?"
+    },
+    {
+      "Information Security": "Do you have a process for continuous improvement in your security practices based on assessment outcomes?"
+    },
+    {
+      "Information Security": "Can you share instances where your assessments led to improvements in information security within your organization?"
+    },
+    {
+      "__EMPTY": "Challenges and Improvement",
+      "Information Security": "What challenges or obstacles do you encounter when conducting information security assessments?"
+    },
+    {
+      "Information Security": "How do you address these challenges or enhance your assessment practices?"
+    },
+    {
+      "Information Security": "Are there specific areas within information security where you face recurring issues or concerns during assessments?"
+    },
+    {
+      "__EMPTY": "Metrics and Performance Measurement",
+      "Information Security": "What key metrics or KPIs do you use to measure the effectiveness of your information security assessments?"
+    },
+    {
+      "Information Security": "How do you evaluate the overall performance of your assessment process and its impact on the security posture of your organization?"
+    },
+    {
+      "__EMPTY": "Threat Landscape assessment",
+      "Information Security": "What is the threat landscape and how do you assess it?"
+    },
+    {
+      "__EMPTY": "Security Awareness Training",
+      "Information Security": "How do you tackle social enginering? Do you train all your users/employees regarding infosec?"
+    },
+    {
+      "__EMPTY": "Physical Security",
+      "Information Security": "How do you assess the physical security of critical IT infra?"
+    },
+    {
+      "__EMPTY": "Endpoint Security",
+      "Information Security": "How do you protect against malware etc your endpoints?"
+    },
+    {
+      "__EMPTY": "Incident Response and recovery plan",
+      "Information Security": "Do you have an Incident response plan and process to mitigate/recover from it?"
+    },
+    {
+      "__EMPTY": "Emerging threats",
+      "Information Security": "How do you keep up with emerging cybersecurity threats and trends to proactively adapt security measures?"
+    }
+  ],
+  "CSIP & Transformation": [
+    {
+      "__EMPTY": "Section",
+      "CSIP & Transformation": "Question",
+      "__EMPTY_1": "Response from Aspire"
+    },
+    {
+      "__EMPTY": "General Information",
+      "CSIP & Transformation": "Can you provide an overview of your organization's approach to Cybersecurity Improvement Programs (CSIP) and transformation initiatives, and the types of initiatives you typically undertake?"
+    },
+    {
+      "__EMPTY": "SCSIP and Transformation Initiative Identification",
+      "CSIP & Transformation": "How do you identify the need for CSIP and transformation initiatives within your organization?"
+    },
+    {
+      "CSIP & Transformation": "Are there specific triggers or events that lead to the identification of these initiatives?"
+    },
+    {
+      "CSIP & Transformation": "How do you involve key stakeholders in the identification process?"
+    },
+    {
+      "__EMPTY": "Qualification and Prioritization",
+      "CSIP & Transformation": "What criteria and methodologies do you use to qualify and prioritize CSIP and transformation initiatives?"
+    },
+    {
+      "CSIP & Transformation": "Are there specific risk assessments or business impact assessments conducted during this phase?"
+    },
+    {
+      "CSIP & Transformation": "How do you determine the urgency and criticality of each initiative?"
+    },
+    {
+      "CSIP & Transformation": "Who is responsible for making qualification and prioritization decisions?"
+    },
+    {
+      "__EMPTY": "Initiative Delivery",
+      "CSIP & Transformation": "What is your process for planning and delivering CSIP and transformation initiatives?"
+    },
+    {
+      "CSIP & Transformation": "How do you define the scope, objectives, and key milestones for each initiative?"
+    },
+    {
+      "CSIP & Transformation": "Are there specific project management methodologies or frameworks used for initiative delivery (e.g., Agile, Waterfall)?"
+    },
+    {
+      "CSIP & Transformation": "Can you describe the roles and responsibilities of the teams involved in initiative delivery?"
+    },
+    {
+      "CSIP & Transformation": "How do you manage resource allocation and budgeting for these initiatives?"
+    },
+    {
+      "__EMPTY": "Measurement and Evaluation",
+      "CSIP & Transformation": "What metrics or Key Performance Indicators (KPIs) do you use to measure the success and effectiveness of CSIP and transformation initiatives?"
+    },
+    {
+      "CSIP & Transformation": "How frequently are these metrics tracked and reported?"
+    },
+    {
+      "CSIP & Transformation": "Are there specific benchmarks or industry standards you use to evaluate initiative outcomes?"
+    },
+    {
+      "CSIP & Transformation": "Do you conduct post-implementation reviews to assess the impact and benefits of completed initiatives?"
+    },
+    {
+      "__EMPTY": "Stakeholder Engagement",
+      "CSIP & Transformation": "How do you engage and communicate with stakeholders throughout the CSIP and transformation initiative lifecycle?"
+    },
+    {
+      "CSIP & Transformation": "Are there specific reporting mechanisms and channels for keeping stakeholders informed?"
+    },
+    {
+      "CSIP & Transformation": "How do you gather feedback and insights from stakeholders to inform initiative progress and adjustments?"
+    },
+    {
+      "__EMPTY": "Lessons Learned and Continuous Improvement",
+      "CSIP & Transformation": "Do you have a process for capturing lessons learned from completed initiatives?"
+    },
+    {
+      "CSIP & Transformation": "How are these lessons used to inform future CSIP and transformation initiatives?"
+    },
+    {
+      "CSIP & Transformation": "Are there specific initiatives for continuous improvement in your CSIP and transformation practices?"
+    },
+    {
+      "__EMPTY": "Challenges and Improvement",
+      "CSIP & Transformation": "What challenges or obstacles do you encounter when identifying, qualifying, delivering, and measuring CSIP and transformation initiatives?"
+    },
+    {
+      "CSIP & Transformation": "How do you address these challenges or enhance your CSIP and transformation practices?"
+    },
+    {
+      "CSIP & Transformation": "Are there specific areas within CSIP and transformation where you face recurring issues or concerns?"
+    },
+    {
+      "__EMPTY": "Impact on Security and Compliance",
+      "CSIP & Transformation": "How do CSIP and transformation initiatives impact your organization's cybersecurity posture and compliance efforts?"
+    },
+    {
+      "CSIP & Transformation": "Are there specific security or compliance-related objectives integrated into these initiatives?"
+    },
+    {
+      "__EMPTY": "CSIP and Transformation Portfolio Management",
+      "CSIP & Transformation": "Do you manage your CSIP and transformation initiatives as part of a portfolio?"
+    },
+    {
+      "CSIP & Transformation": "How do you ensure alignment and prioritization within the portfolio of initiatives?"
+    },
+    {
+      "CSIP & Transformation": "Are there specific governance and decision-making processes for managing this portfolio?"
+    }
+  ],
+  "Contracting & Legal Compliance": [
+    {
+      "__EMPTY": "Section",
+      "Contracting & Legal Compliance": "Question",
+      "__EMPTY_1": "Response from Aspire"
+    },
+    {
+      "__EMPTY": "General Information",
+      "Contracting & Legal Compliance": "Can you provide an overview of your organization's approach to contracting and legal compliance processes when responding to RFPs or submitting new proposals?"
+    },
+    {
+      "__EMPTY": "Contracting Process",
+      "Contracting & Legal Compliance": "What is your standard procedure for drafting and negotiating contracts in response to RFPs or new proposals?"
+    },
+    {
+      "Contracting & Legal Compliance": "Who within your organization is responsible for managing the contracting process?"
+    },
+    {
+      "Contracting & Legal Compliance": "Are there specific templates or guidelines used for contract creation and review?"
+    },
+    {
+      "Contracting & Legal Compliance": "How do you ensure that contracts align with the requirements and scope outlined in the RFP or proposal?"
+    },
+    {
+      "__EMPTY": "Legal Compliance",
+      "Contracting & Legal Compliance": "How do you ensure legal compliance in your RFP responses or new proposals, particularly with regard to industry regulations and standards?"
+    },
+    {
+      "Contracting & Legal Compliance": "Are there specific legal experts or legal teams involved in the compliance review process?"
+    },
+    {
+      "Contracting & Legal Compliance": "How do you identify and address potential legal risks associated with RFP responses or proposals?"
+    },
+    {
+      "Contracting & Legal Compliance": "Can you provide examples of legal compliance challenges you've encountered in the past and how they were resolved?"
+    },
+    {
+      "__EMPTY": "Third-Party Contracts and Agreements",
+      "Contracting & Legal Compliance": "Do you engage in third-party contracts or agreements as part of your RFP responses or new proposals?"
+    },
+    {
+      "Contracting & Legal Compliance": "How do you ensure that these third-party contracts align with your organization's legal and compliance requirements?"
+    },
+    {
+      "Contracting & Legal Compliance": "Are there specific clauses or terms typically included in third-party contracts for RFPs or proposals?"
+    },
+    {
+      "__EMPTY": "Data Protection and Privacy",
+      "Contracting & Legal Compliance": "How do you address data protection and privacy considerations in your RFP responses or new proposals?"
+    },
+    {
+      "Contracting & Legal Compliance": "Are there processes in place to handle sensitive or personal data in accordance with data privacy regulations?"
+    },
+    {
+      "Contracting & Legal Compliance": "Can you describe how you manage data security and privacy compliance during the proposal phase?"
+    },
+    {
+      "__EMPTY": "Intellectual Property",
+      "Contracting & Legal Compliance": "What measures do you take to protect and manage intellectual property rights in your RFP responses or proposals?"
+    },
+    {
+      "Contracting & Legal Compliance": "Are there specific clauses or agreements related to intellectual property that you include in contracts?"
+    },
+    {
+      "Contracting & Legal Compliance": "How do you ensure that the proposed solutions or services do not infringe on the intellectual property rights of others?"
+    },
+    {
+      "__EMPTY": "Contract Review and Approval",
+      "Contracting & Legal Compliance": "How is the contract review and approval process structured within your organization?"
+    },
+    {
+      "Contracting & Legal Compliance": "Can you outline the roles and responsibilities of individuals or teams involved in contract review and approval?"
+    },
+    {
+      "Contracting & Legal Compliance": "Are there specific checkpoints or milestones in the contract approval process?"
+    },
+    {
+      "Contracting & Legal Compliance": "How do you expedite contract approval to meet tight RFP response deadlines?"
+    },
+    {
+      "__EMPTY": "Compliance Documentation",
+      "Contracting & Legal Compliance": "What documentation and reporting mechanisms are in place to capture and maintain records of legal compliance for RFP responses or proposals?"
+    },
+    {
+      "Contracting & Legal Compliance": "How do you ensure that compliance documentation is readily available for audit or review purposes?"
+    },
+    {
+      "Contracting & Legal Compliance": "Can you provide examples of how compliance documentation has been utilized to demonstrate legal adherence in the past?"
+    },
+    {
+      "__EMPTY": "Challenges and Improvement",
+      "Contracting & Legal Compliance": "What challenges or obstacles do you encounter when managing contracting and legal compliance during RFP responses or new proposals?"
+    },
+    {
+      "Contracting & Legal Compliance": "How do you address these challenges or enhance your practices?"
+    },
+    {
+      "Contracting & Legal Compliance": "Are there specific areas within contracting and legal compliance where you face recurring issues or concerns?"
+    },
+    {
+      "__EMPTY": "Training and Education",
+      "Contracting & Legal Compliance": "Do you provide training or education to your team members involved in the contracting and legal compliance process?"
+    },
+    {
+      "Contracting & Legal Compliance": "How do you ensure that your team is aware of the latest legal and compliance requirements relevant to RFPs and proposals?"
+    },
+    {
+      "__EMPTY": "Continuous Improvement",
+      "Contracting & Legal Compliance": "Do you have a process for continuous improvement in your contracting and legal compliance practices based on RFP outcomes and legal changes?"
+    },
+    {
+      "Contracting & Legal Compliance": "Can you share instances where your legal compliance practices evolved to meet new requirements or challenges?"
+    }
+  ],
+  "Handover from Sales to Delivery": [
+    {
+      "__EMPTY": "Section",
+      "Handover from Sales to Delivery": "Question",
+      "__EMPTY_1": "Response from Aspire"
+    },
+    {
+      "__EMPTY": "General Information",
+      "Handover from Sales to Delivery": "Can you provide an overview of your organization's approach to the handover process from Sales to Delivery for new projects or post RFP wins?"
+    },
+    {
+      "__EMPTY": "Handover Process",
+      "Handover from Sales to Delivery": "What is your standard procedure for transitioning projects from the Sales team to the Delivery team?"
+    },
+    {
+      "Handover from Sales to Delivery": "Who within your organization is responsible for overseeing the handover process?"
+    },
+    {
+      "Handover from Sales to Delivery": "Are there specific handover templates or guidelines used to ensure a smooth transition?"
+    },
+    {
+      "Handover from Sales to Delivery": "How do you ensure that all project-related information is accurately transferred during the handover?"
+    },
+    {
+      "__EMPTY": "Information and Documentation",
+      "Handover from Sales to Delivery": "What key information and documentation are typically included in the handover package?"
+    },
+    {
+      "Handover from Sales to Delivery": "How do you ensure that project specifications, client requirements, and expectations are clearly communicated to the Delivery team?"
+    },
+    {
+      "Handover from Sales to Delivery": "Are there specific project initiation documents or checklists used in the handover process?"
+    },
+    {
+      "Handover from Sales to Delivery": "How is client history and communication during the sales phase documented and passed on to the Delivery team?"
+    },
+    {
+      "__EMPTY": "Client Expectations and Scope",
+      "Handover from Sales to Delivery": "How do you ensure that the Delivery team fully understands the client's expectations and the project's scope after handover?"
+    },
+    {
+      "Handover from Sales to Delivery": "Are there mechanisms in place to address any discrepancies or gaps between the Sales and Delivery teams regarding client expectations?"
+    },
+    {
+      "Handover from Sales to Delivery": "How is scope change management handled post-handover?"
+    },
+    {
+      "__EMPTY": "Communication and Collaboration",
+      "Handover from Sales to Delivery": "What processes or tools are used to facilitate ongoing communication and collaboration between Sales and Delivery teams during the handover phase?"
+    },
+    {
+      "Handover from Sales to Delivery": "How do you ensure that the Delivery team can seek clarifications or insights from the Sales team as needed?"
+    },
+    {
+      "Handover from Sales to Delivery": "Are there regular update meetings or status reports shared between the two teams during the handover?"
+    },
+    {
+      "__EMPTY": "Resource Allocation and Planning",
+      "Handover from Sales to Delivery": "How are project resources allocated and planned for post-handover?"
+    },
+    {
+      "Handover from Sales to Delivery": "What mechanisms are in place to address resource constraints or requirements identified during the handover?"
+    },
+    {
+      "Handover from Sales to Delivery": "How is the project timeline and milestones established once the project moves to the Delivery phase?"
+    },
+    {
+      "__EMPTY": "Risk and Issue Identification",
+      "Handover from Sales to Delivery": "How do you identify and communicate potential risks or issues that may have been identified during the Sales phase to the Delivery team?"
+    },
+    {
+      "Handover from Sales to Delivery": "Are there specific risk assessment processes or documentation that are transferred as part of the handover?"
+    },
+    {
+      "Handover from Sales to Delivery": "How are mitigation strategies for identified risks communicated to the Delivery team?"
+    },
+    {
+      "__EMPTY": "Client Relationship Management",
+      "Handover from Sales to Delivery": "How is client relationship management transitioned from Sales to Delivery?"
+    },
+    {
+      "Handover from Sales to Delivery": "Are there specific client communication protocols and relationship management practices followed during project execution?"
+    },
+    {
+      "Handover from Sales to Delivery": "How are client feedback and satisfaction measurements integrated into the Delivery phase?"
+    },
+    {
+      "__EMPTY": "Challenges and Improvement",
+      "Handover from Sales to Delivery": "What challenges or obstacles do you encounter when executing the handover process from Sales to Delivery?"
+    },
+    {
+      "Handover from Sales to Delivery": "How do you address these challenges or enhance your practices?"
+    },
+    {
+      "Handover from Sales to Delivery": "Are there specific areas within the handover process where you face recurring issues or concerns?"
+    },
+    {
+      "__EMPTY": "Continuous Improvement",
+      "Handover from Sales to Delivery": "Do you have a process for continuous improvement in your handover practices based on project outcomes and client feedback?"
+    },
+    {
+      "Handover from Sales to Delivery": "Can you share instances where your handover practices evolved to meet new requirements or challenges?"
+    }
+  ],
+  "Transition": [
+    {
+      "__EMPTY": "Section",
+      "Transition": "Question",
+      "__EMPTY_1": "Response from Aspire"
+    },
+    {
+      "__EMPTY": "General Information",
+      "Transition": "Can you provide an overview of your organization's approach to the transition process for new projects or post-RFP wins?"
+    },
+    {
+      "__EMPTY": "Transition Planning",
+      "Transition": "What is your standard procedure for planning the transition of new projects from the proposal or RFP win phase to project execution?"
+    },
+    {
+      "Transition": "Who within your organization is responsible for overseeing the transition process?"
+    },
+    {
+      "Transition": "Are there specific transition planning templates or guidelines used to ensure a smooth start to the project?"
+    },
+    {
+      "Transition": "How do you ensure that all project-related information is accurately transferred during the transition?"
+    },
+    {
+      "__EMPTY": "Information and Documentation",
+      "Transition": "What key information and documentation are typically included in the transition package?"
+    },
+    {
+      "Transition": "How do you ensure that project specifications, client requirements, and expectations are clearly communicated to the project execution team?"
+    },
+    {
+      "Transition": "Are there specific transition documents or checklists used in the transition process?"
+    },
+    {
+      "Transition": "How is client history and communication during the sales or RFP phase documented and passed on to the project execution team?"
+    },
+    {
+      "__EMPTY": "Client Expectations and Scope",
+      "Transition": "How do you ensure that the project execution team fully understands the client's expectations and the project's scope after the transition?"
+    },
+    {
+      "Transition": "Are there mechanisms in place to address any discrepancies or gaps between the sales or RFP phase and project execution regarding client expectations?"
+    },
+    {
+      "Transition": "How is scope change management handled during and after the transition?"
+    },
+    {
+      "__EMPTY": "Communication and Collaboration",
+      "Transition": "What processes or tools are used to facilitate ongoing communication and collaboration between teams involved in the transition?"
+    },
+    {
+      "Transition": "How do you ensure that the project execution team can seek clarifications or insights from the sales or RFP team as needed?"
+    },
+    {
+      "Transition": "Are there regular update meetings or status reports shared between teams during the transition?"
+    },
+    {
+      "__EMPTY": "Resource Allocation and Planning",
+      "Transition": "How are project resources allocated and planned for during and after the transition?"
+    },
+    {
+      "Transition": "What mechanisms are in place to address resource constraints or requirements identified during the transition?"
+    },
+    {
+      "Transition": "How is the project timeline and milestones established after the transition?"
+    },
+    {
+      "__EMPTY": "Risk and Issue Identification",
+      "Transition": "How do you identify and communicate potential risks or issues that may have been identified during the sales or RFP phase to the project execution team?"
+    },
+    {
+      "Transition": "Are there specific risk assessment processes or documentation that are transferred as part of the transition?"
+    },
+    {
+      "Transition": "How are mitigation strategies for identified risks communicated to the project execution team?"
+    },
+    {
+      "__EMPTY": "Client Relationship Management",
+      "Transition": "How is client relationship management transitioned from the sales or RFP phase to project execution?"
+    },
+    {
+      "Transition": "Are there specific client communication protocols and relationship management practices followed during project execution?"
+    },
+    {
+      "Transition": "How are client feedback and satisfaction measurements integrated into the project execution phase?"
+    },
+    {
+      "__EMPTY": "Challenges and Improvement",
+      "Transition": "What challenges or obstacles do you encounter when executing the transition process for new projects or post-RFP wins?"
+    },
+    {
+      "Transition": "How do you address these challenges or enhance your transition practices?"
+    },
+    {
+      "Transition": "Are there specific areas within the transition process where you face recurring issues or concerns?"
+    },
+    {
+      "__EMPTY": "Continuous Improvement",
+      "Transition": "Do you have a process for continuous improvement in your transition practices based on project outcomes and client feedback?"
+    },
+    {
+      "Transition": "Can you share instances where your transition practices evolved to meet new requirements or challenges?"
+    }
+  ],
+  "Infrastructure Assessment": [
+    {
+      "__EMPTY": "Section",
+      "Infrastructure Assessment": "Evaluation & Assessment",
+      "__EMPTY_1": "Response from Aspire"
+    },
+    {
+      "__EMPTY": "Current Infrastructure Inventory",
+      "Infrastructure Assessment": "How do you assess the existing infrastructure components, including servers, networking equipment, storage systems, and software applications, and how are they configured and sized?"
+    },
+    {
+      "Infrastructure Assessment": "Do you maintain a central reference worksheet for infra inventory? Do you use IAC or other config mgmt tools to deploy and inventory infra items?"
+    },
+    {
+      "__EMPTY": "Performance Metrics",
+      "Infrastructure Assessment": "How do you assess the current infrastructure's performance metrics, such as CPU utilization, memory usage, network bandwidth, uptime/downtime/outages and storage capacity? Have any performance bottlenecks been identified?"
+    },
+    {
+      "__EMPTY": "Scalability Requirements",
+      "Infrastructure Assessment": "How do you assess to know how well can the infrastructure scale to accommodate future growth in terms of users, data volume, and workloads? Have you assessed the scalability of both hardware and software components?"
+    },
+    {
+      "__EMPTY": "Availability and Redundancy",
+      "Infrastructure Assessment": "What measures are in place to ensure the availability and redundancy of critical infrastructure components like servers, storage, and networking, especially concerning high availability and failover mechanisms?"
+    },
+    {
+      "__EMPTY": "Security Measures",
+      "Infrastructure Assessment": "How are security measures such as firewalls, intrusion detection systems, and access controls implemented within the infrastructure? Is compliance with security policies and regulations ensured?"
+    },
+    {
+      "__EMPTY": "Data Backup and Recovery",
+      "Infrastructure Assessment": "Can you describe your data backup and disaster recovery procedures to ensure data integrity and availability? Are backup schedules and retention policies deemed adequate?"
+    },
+    {
+      "Infrastructure Assessment": "What are the recovery time objectives (RTO) and recovery point objectives (RPO)?"
+    },
+    {
+      "__EMPTY": "Network Architecture",
+      "Infrastructure Assessment": "How do you assess to understand the current network topology, including bandwidth and latency? Has it been evaluated to support required services and applications? Is load balancing or content delivery considered? (if applicable)"
+    },
+    {
+      "__EMPTY": "Storage Infrastructure",
+      "Infrastructure Assessment": "How do you assess the storage infrastructure, including SAN/NAS solutions, in terms of capacity, performance, and data protection capabilities? Have you explored storage virtualization options?"
+    },
+    {
+      "__EMPTY": "Virtualization and Cloud Integration",
+      "Infrastructure Assessment": "How do you assess and propose work around the potential benefits of virtualization technologies or cloud services to optimize infrastructure utilization and flexibility?"
+    },
+    {
+      "Infrastructure Assessment": "What is the level of virtualization and cloud integration within the infrastructure?"
+    },
+    {
+      "__EMPTY": "Compliance and Regulations",
+      "Infrastructure Assessment": "How do you assess if there specific industry regulations or standards, such as HIPAA, GDPR, or PCI DSS, that the infrastructure must comply with? If so, how is compliance ensured?"
+    },
+    {
+      "Infrastructure Assessment": "Whether compensatory controls are used in place of original controls to achieve compliances. How are they validated and maintained? How do you assess compliances of vendors and 3rd party providers?"
+    },
+    {
+      "__EMPTY": "Monitoring and Management",
+      "Infrastructure Assessment": "How do you assess what tools and processes are currently in place for infrastructure monitoring and management? Is proactive monitoring employed to detect and address issues promptly?"
+    },
+    {
+      "Infrastructure Assessment": "Whether pure monitoring or event/alert based monitoring?"
+    },
+    {
+      "__EMPTY": "Software and Licensing",
+      "Infrastructure Assessment": "How do you gather information around software licenses and their compliance with the managed services project's requirements? Are all software components kept up to date?"
+    },
+    {
+      "__EMPTY": "Disaster Recovery Plan",
+      "Infrastructure Assessment": "Describe your DR Plan and its efficacy?"
+    },
+    {
+      "Infrastructure Assessment": "How effective is your existing disaster recovery plan, and has it been thoroughly tested? Is there a documented plan for recovering from infrastructure failures?"
+    },
+    {
+      "__EMPTY": "Budget and Cost Considerations",
+      "Infrastructure Assessment": "How do you analyze budget constraints and cost projections for maintaining and upgrading the infrastructure? Have you identified potential cost-saving measures or optimization opportunities?"
+    },
+    {
+      "__EMPTY": "Vendor and Service Provider Relationships",
+      "Infrastructure Assessment": "If third-party vendors or service providers are involved, how do you assess their capabilities, SLAs, and compatibility with the project's objectives?"
+    },
+    {
+      "__EMPTY": "Capacity Planning",
+      "Infrastructure Assessment": "How do you assess the customer's projections for future capacity needs based on growth forecasts and business plans? How is the infrastructure prepared to handle anticipated changes in workload?"
+    },
+    {
+      "__EMPTY": "Documentation and Knowledge Transfer",
+      "Infrastructure Assessment": "Could you provide insights into the existing documentation and knowledge transfer processes in place to facilitate seamless infrastructure management and troubleshooting?"
+    },
+    {
+      "__EMPTY": "Backup Power and Redundancy",
+      "Infrastructure Assessment": "How do you assess the power sources and backup generators assessed to ensure infrastructure availability during power outages?"
+    },
+    {
+      "__EMPTY": "Environmental Considerations",
+      "Infrastructure Assessment": "How do you understand what measures are taken by the customer to ensure that physical conditions, such as temperature and humidity, remain within recommended ranges for hardware operation?"
+    },
+    {
+      "Infrastructure Assessment": "What is the energy efficiency and environmental impact of the infrastructure?"
+    },
+    {
+      "__EMPTY": "End-User Computing",
+      "Infrastructure Assessment": "How do you assess if the end-user devices been considered in terms of their compatibility with the managed services infrastructure? How are user endpoints evaluated to meet security and performance requirements?"
+    },
+    {
+      "__EMPTY": "Legacy systems",
+      "Infrastructure Assessment": "Are there any legacy systems that need to be integrated or phased out?"
+    },
+    {
+      "__EMPTY": "User complaints",
+      "Infrastructure Assessment": "Are there any recurring IT issues or user complaints that need to be addressed?"
+    },
+    {
+      "__EMPTY": "Future trends",
+      "Infrastructure Assessment": "What are the future technology trends that may impact the organization's IT infrastructure?"
+    },
+    {
+      "__EMPTY": "IT Team",
+      "Infrastructure Assessment": "How do you track and train th IT team to ensure capability for for managing and maintaining the infrastructure?"
+    },
+    {
+      "__EMPTY": "Known issues",
+      "Infrastructure Assessment": "What are the potential risks and vulnerabilities in the current infrastructure, and how are they mitigated?"
+    }
+  ],
+  "AMS Assessment": [
+    {
+      "__EMPTY": "Section",
+      "AMS Assessment": "Evaluation & Assessment",
+      "__EMPTY_1": "Response from Aspire"
+    },
+    {
+      "__EMPTY": "Business Objectives and Requirements",
+      "AMS Assessment": "Understand the specific business objectives that the managed services project aims to achieve."
+    },
+    {
+      "AMS Assessment": "Identify and document detailed business requirements for each application."
+    },
+    {
+      "__EMPTY": "Application Inventory and Portfolio",
+      "AMS Assessment": "Create an inventory of all the applications that will be covered under the managed services project."
+    },
+    {
+      "AMS Assessment": "Assess the criticality and strategic importance of each application within the portfolio."
+    },
+    {
+      "__EMPTY": "Service Level Agreements (SLAs) and Service Level Objectives (SLOs)",
+      "AMS Assessment": "Define clear SLAs and SLOs for each application, outlining performance, availability, and response time expectations."
+    },
+    {
+      "AMS Assessment": "Ensure that SLAs align with business requirements and are achievable."
+    },
+    {
+      "__EMPTY": "Application Architecture and Dependencies",
+      "AMS Assessment": "Analyze the architecture of each application, including components, interfaces, and dependencies."
+    },
+    {
+      "AMS Assessment": "Document integration points and interdependencies between applications."
+    },
+    {
+      "__EMPTY": "Scalability and Performance Requirements",
+      "AMS Assessment": "Determine the scalability needs of each application to accommodate growth in users and data volume."
+    },
+    {
+      "AMS Assessment": "Define performance requirements and benchmarks to ensure optimal application performance."
+    },
+    {
+      "__EMPTY": "Security and Compliance",
+      "AMS Assessment": "Assess the security measures and compliance requirements for each application, including data protection, access controls, and regulatory compliance."
+    },
+    {
+      "AMS Assessment": "Identify any vulnerabilities and risks that need to be addressed."
+    },
+    {
+      "__EMPTY": "Data Management and Backup Strategies",
+      "AMS Assessment": "Develop data management strategies, including data storage, retention policies, and data backup procedures."
+    },
+    {
+      "AMS Assessment": "Establish backup and recovery strategies to ensure data integrity and availability."
+    },
+    {
+      "__EMPTY": "Infrastructure and Technology Stack",
+      "AMS Assessment": "Evaluate the existing infrastructure supporting the applications."
+    },
+    {
+      "AMS Assessment": "Assess the technology stack, including servers, databases, middleware, and network components."
+    },
+    {
+      "__EMPTY": "Vendor and Third-Party Relationships",
+      "AMS Assessment": "Review existing vendor relationships and contracts related to software licenses, hardware maintenance, and third-party services."
+    },
+    {
+      "AMS Assessment": "Assess vendor performance and identify opportunities for optimization."
+    },
+    {
+      "__EMPTY": "Governance and Compliance Framework",
+      "AMS Assessment": "Establish a governance framework for managing the applications, including change management, incident response, and service continuity planning. - Ensure compliance with industry standards, regulations, and best practices."
+    },
+    {
+      "__EMPTY": "Resource Allocation and Staffing",
+      "AMS Assessment": "Estimate the staffing requirements for managing and supporting the applications. - Allocate resources based on workload and criticality."
+    },
+    {
+      "__EMPTY": "Cost Estimation and Budgeting",
+      "AMS Assessment": "Develop a detailed cost estimation that includes operational costs, personnel expenses, hardware and software licensing, and any additional investments. - Create a budget that aligns with the project's financial constraints."
+    },
+    {
+      "__EMPTY": "Risk Assessment and Mitigation",
+      "AMS Assessment": "Identify potential risks associated with application management and establish mitigation strategies. - Develop a contingency plan for handling unexpected challenges."
+    },
+    {
+      "__EMPTY": "Monitoring and Performance Management",
+      "AMS Assessment": "Implement monitoring tools and procedures to proactively identify and address issues. - Define performance management strategies to ensure applications meet SLAs."
+    },
+    {
+      "__EMPTY": "Training and Knowledge Transfer",
+      "AMS Assessment": "Plan for training and knowledge transfer to ensure the team is equipped to manage and support the applications effectively. - Document best practices and procedures."
+    },
+    {
+      "__EMPTY": "Reporting and Communication",
+      "AMS Assessment": "Establish a reporting framework to provide stakeholders with regular updates on service performance and compliance. - Define communication channels and escalation procedures for incident reporting."
+    },
+    {
+      "__EMPTY": "Continuous Improvement",
+      "AMS Assessment": "Implement processes for continuous improvement, including regular reviews, performance evaluations, and feedback loops. - Adjust the managed services strategy based on lessons learned and changing business needs."
+    }
+  ],
+  "Infrastructure Estimation": [
+    {
+      "__EMPTY": "Section",
+      "Infrastructure Estimation": "Estimation Component",
+      "__EMPTY_1": "Response from Aspire"
+    },
+    {
+      "__EMPTY": "Business Requirements",
+      "Infrastructure Estimation": "Understand the specific business objectives and goals that the infrastructure should support."
+    },
+    {
+      "Infrastructure Estimation": "Determine the criticality of different services and applications to prioritize resource allocation."
+    },
+    {
+      "__EMPTY": "Workload Analysis",
+      "Infrastructure Estimation": "Identify the types and volumes of workloads (e.g., web services, databases, applications) that the infrastructure will host."
+    },
+    {
+      "Infrastructure Estimation": "Analyze the performance requirements and resource utilization patterns of these workloads."
+    },
+    {
+      "__EMPTY": "Scalability and Growth",
+      "Infrastructure Estimation": "Determine the expected growth rate and scalability requirements over the project's lifecycle."
+    },
+    {
+      "Infrastructure Estimation": "Plan for horizontal and vertical scalability to accommodate increased demand."
+    },
+    {
+      "__EMPTY": "Availability and Redundancy",
+      "Infrastructure Estimation": "Define the required level of availability and redundancy based on business continuity needs."
+    },
+    {
+      "Infrastructure Estimation": "Consider High Availability (HA) solutions, load balancing, failover mechanisms, and disaster recovery."
+    },
+    {
+      "__EMPTY": "Infrastructure Components",
+      "Infrastructure Estimation": "Evaluate server hardware, network infrastructure, storage solutions, and data center facilities."
+    },
+    {
+      "Infrastructure Estimation": "Specify the required capacity, specifications, and configurations for each component."
+    },
+    {
+      "__EMPTY": "Network Architecture",
+      "Infrastructure Estimation": "Design the network topology, including LAN, WAN, VPN, and internet connectivity."
+    },
+    {
+      "Infrastructure Estimation": "Consider bandwidth requirements, traffic patterns, and security measures."
+    },
+    {
+      "__EMPTY": "Security Requirements",
+      "Infrastructure Estimation": "Define security policies, access controls, encryption, intrusion detection, and firewall requirements."
+    },
+    {
+      "Infrastructure Estimation": "Ensure compliance with industry standards and regulations."
+    },
+    {
+      "__EMPTY": "Data Management",
+      "Infrastructure Estimation": "Plan for data storage, backup, and retention policies."
+    },
+    {
+      "Infrastructure Estimation": "Determine data encryption, replication, and archival needs."
+    },
+    {
+      "__EMPTY": "Virtualization and Cloud Integration",
+      "Infrastructure Estimation": "Assess the suitability of virtualization technologies or cloud services to optimize resource utilization and flexibility."
+    },
+    {
+      "__EMPTY": "Software and Licensing",
+      "Infrastructure Estimation": "Identify the required software components, licenses, and versions."
+    },
+    {
+      "Infrastructure Estimation": "Calculate software licensing costs and ensure compliance."
+    },
+    {
+      "__EMPTY": "Monitoring and Management",
+      "Infrastructure Estimation": "Specify the tools and processes for infrastructure monitoring, management, and alerting."
+    },
+    {
+      "Infrastructure Estimation": "Consider remote management capabilities for proactive support."
+    },
+    {
+      "__EMPTY": "Disaster Recovery and Backup",
+      "Infrastructure Estimation": "Develop a comprehensive disaster recovery plan with RTO (Recovery Time Objective) and RPO (Recovery Point Objective) considerations."
+    },
+    {
+      "Infrastructure Estimation": "Determine backup solutions and costs."
+    },
+    {
+      "__EMPTY": "Vendor and Service Provider Costs",
+      "Infrastructure Estimation": "Evaluate the costs associated with third-party vendors or service providers, including SLAs and support agreements."
+    },
+    {
+      "__EMPTY": "Power and Environmental Costs",
+      "Infrastructure Estimation": "Calculate costs related to power consumption, backup generators, and environmental controls (e.g., cooling)."
+    },
+    {
+      "__EMPTY": "Maintenance and Support",
+      "Infrastructure Estimation": "Estimate ongoing maintenance, support, and IT staffing costs."
+    },
+    {
+      "Infrastructure Estimation": "Consider training and knowledge transfer expenses."
+    },
+    {
+      "__EMPTY": "Data Center Costs",
+      "Infrastructure Estimation": "If applicable, include costs for leasing or building data center facilities, including space, power, and physical security."
+    },
+    {
+      "__EMPTY": "Contingency and Risk Management",
+      "Infrastructure Estimation": "Budget for unexpected contingencies and risks that may impact project costs."
+    },
+    {
+      "__EMPTY": "Total Cost of Ownership (TCO)",
+      "Infrastructure Estimation": "Calculate the TCO, which includes upfront capital expenditures (CapEx) and ongoing operational expenses (OpEx)."
+    },
+    {
+      "__EMPTY": "Budget Constraints",
+      "Infrastructure Estimation": "Ensure that the cost estimation aligns with the project's budget constraints."
+    },
+    {
+      "Infrastructure Estimation": "Identify opportunities for cost optimization without compromising performance and security."
+    },
+    {
+      "__EMPTY": "Documentation and Reporting",
+      "Infrastructure Estimation": "Maintain detailed documentation of the cost estimation process and assumptions."
+    },
+    {
+      "Infrastructure Estimation": "Provide clear reporting to stakeholders for transparency."
+    },
+    {
+      "__EMPTY": "Cloud native features",
+      "Infrastructure Estimation": "Whether cloud native features and tools are being leveraged for all the above line items?"
+    }
+  ],
+  "AMS Estimation": [
+    {
+      "__EMPTY": "Section",
+      "Application MS Estimation": "Estimation Component",
+      "__EMPTY_1": "Response from Aspire"
+    },
+    {
+      "__EMPTY": "Service Scope and Service Levels",
+      "Application MS Estimation": "Define the scope of services to be provided under the managed services agreement."
+    },
+    {
+      "Application MS Estimation": "Specify service levels, including response times, availability, and performance metrics."
+    },
+    {
+      "__EMPTY": "Application Portfolio Analysis",
+      "Application MS Estimation": "Assess the number and complexity of applications to be managed."
+    },
+    {
+      "Application MS Estimation": "Categorize applications based on criticality and strategic importance."
+    },
+    {
+      "__EMPTY": "Staffing and Resource Requirements",
+      "Application MS Estimation": "Estimate the number and skills of personnel needed for application management and support."
+    },
+    {
+      "Application MS Estimation": "Consider roles such as system administrators, database administrators, security experts, and support staff."
+    },
+    {
+      "__EMPTY": "Salaries and Labor Costs",
+      "Application MS Estimation": "Calculate the salaries, benefits, and overhead costs associated with the required personnel."
+    },
+    {
+      "Application MS Estimation": "Include training and development expenses for staff."
+    },
+    {
+      "__EMPTY": "Infrastructure Costs",
+      "Application MS Estimation": "Account for the cost of servers, storage, networking equipment, and other infrastructure components."
+    },
+    {
+      "Application MS Estimation": "Consider both capital expenditures (CapEx) and ongoing operational expenses (OpEx)."
+    },
+    {
+      "__EMPTY": "Software and Licensing Costs",
+      "Application MS Estimation": "Include licensing fees for operating systems, database software, and other application-specific software."
+    },
+    {
+      "Application MS Estimation": "Consider software maintenance and support costs."
+    },
+    {
+      "__EMPTY": "Third-Party Services and Vendors",
+      "Application MS Estimation": "Evaluate costs associated with third-party services, such as cloud providers, data center hosting, or security services."
+    },
+    {
+      "Application MS Estimation": "Review contracts and service level agreements (SLAs) with third-party vendors."
+    },
+    {
+      "__EMPTY": "Tools and Technology Costs",
+      "Application MS Estimation": "Factor in the cost of monitoring tools, management software, and other technologies required for application management."
+    },
+    {
+      "Application MS Estimation": "Consider licensing and subscription fees."
+    },
+    {
+      "__EMPTY": "Data Center and Facilities Costs",
+      "Application MS Estimation": "If applicable, account for expenses related to data center facilities, including space, power, cooling, and physical security."
+    },
+    {
+      "Application MS Estimation": "Consider lease or rental costs."
+    },
+    {
+      "__EMPTY": "Disaster Recovery and Business Continuity",
+      "Application MS Estimation": "Budget for disaster recovery infrastructure and services. - Include costs associated with backup solutions, offsite storage, and testing procedures."
+    },
+    {
+      "__EMPTY": "Training and Knowledge Transfer",
+      "Application MS Estimation": "Allocate funds for training programs and knowledge transfer sessions. - Ensure that staff members are adequately trained to manage and support the applications."
+    },
+    {
+      "__EMPTY": "Contingency and Risk Management",
+      "Application MS Estimation": "Set aside a contingency budget to address unforeseen challenges and risks. - Identify potential risks and establish mitigation strategies."
+    },
+    {
+      "__EMPTY": "Compliance and Security Costs",
+      "Application MS Estimation": "Calculate expenses related to compliance audits, security assessments, and regulatory compliance. - Budget for security measures and technologies."
+    },
+    {
+      "__EMPTY": "Reporting and Monitoring Costs",
+      "Application MS Estimation": "Include costs associated with monitoring tools, reporting systems, and performance analytics. - Ensure that monitoring capabilities align with service levels and quality expectations."
+    },
+    {
+      "__EMPTY": "Documentation and Reporting",
+      "Application MS Estimation": "Allocate resources for documenting processes, procedures, and incident reports. - Develop reporting mechanisms to keep stakeholders informed about service performance."
+    },
+    {
+      "__EMPTY": "Continuous Improvement and Upgrades",
+      "Application MS Estimation": "Set aside funds for continuous improvement initiatives and upgrades to technology and infrastructure. - Consider technology refresh cycles and hardware replacements."
+    },
+    {
+      "__EMPTY": "Budget Contingencies",
+      "Application MS Estimation": "Plan for budget contingencies to address unforeseen expenses or changes in project scope. - Typically, a small percentage of the budget is allocated for contingencies."
+    },
+    {
+      "__EMPTY": "Contractual and Legal Costs",
+      "Application MS Estimation": "Include expenses related to legal review and drafting of managed services agreements. - Consider contractual compliance and dispute resolution costs."
+    },
+    {
+      "__EMPTY": "Taxes and Regulatory Fees",
+      "Application MS Estimation": "Account for taxes, fees, and levies that may be applicable to the project or services. - Ensure compliance with tax regulations."
+    },
+    {
+      "__EMPTY": "Total Cost of Ownership (TCO) Analysis",
+      "Application MS Estimation": "Calculate the TCO, which includes both upfront capital expenses (CapEx) and ongoing operational expenses (OpEx). - Compare TCO against the available budget."
+    }
+  ],
+  "Rating & Maturity Scoring": [
+    {
+      "__EMPTY": "Question Rating",
+      "__EMPTY_1": "Code",
+      "Rating & Maturity Scoring": "Rating Description"
+    },
+    {
+      "__EMPTY": 1,
+      "__EMPTY_1": "Emerging",
+      "Rating & Maturity Scoring": "The organization has a basic understanding but lacks established processes or procedures in the assessed area."
+    },
+    {
+      "__EMPTY": 2,
+      "__EMPTY_1": "Developing",
+      "Rating & Maturity Scoring": "The organization understands the area, but there are noticeable gaps in its processes and procedures, showing the need for improvement, which is already in progress."
+    },
+    {
+      "__EMPTY": 3,
+      "__EMPTY_1": "Competent",
+      "Rating & Maturity Scoring": "The organization has processes and procedures in place, and there's room for improvement in how efficiently and effectively they operate."
+    },
+    {
+      "__EMPTY": 4,
+      "__EMPTY_1": "Proficient",
+      "Rating & Maturity Scoring": "The organization has mature processes and procedures, demonstrating efficiency and effectiveness, consistently achieving its goals."
+    },
+    {
+      "__EMPTY": 5,
+      "__EMPTY_1": "Highly Mature",
+      "Rating & Maturity Scoring": "The organization leads the way in the assessed area, with innovative and best-practice processes and procedures, consistently exceeding goals, and continuously surpassing customer expectations."
+    },
+    {
+      "__EMPTY": "NA",
+      "__EMPTY_1": "Not Applicable",
+      "Rating & Maturity Scoring": "Assessment not applicable"
+    },
+    {
+      "__EMPTY": "Maturity Score",
+      "__EMPTY_1": "Code",
+      "Rating & Maturity Scoring": "Score Description"
+    },
+    {
+      "__EMPTY": "(1-25)",
+      "__EMPTY_1": "Emerging",
+      "Rating & Maturity Scoring": "Organizations or processes in this range are at an early stage of maturity. They may have limited or no formal processes in place and require significant improvements. Immediate attention and action are needed to establish foundational processes and controls."
+    },
+    {
+      "__EMPTY": "(26-50)",
+      "__EMPTY_1": "Developing",
+      "Rating & Maturity Scoring": "Entities in this range are making progress but still have room for improvement. There may be some formal processes in place, but they are not yet fully effective. Focus on enhancing existing processes and expanding coverage."
+    },
+    {
+      "__EMPTY": "(51-75)",
+      "__EMPTY_1": "Competent",
+      "Rating & Maturity Scoring": "Organizations or processes in this range have achieved a moderate level of maturity. They have established formal processes that are generally effective, but there is room for optimization and refinement. Concentrate on fine-tuning and improving efficiency."
+    },
+    {
+      "__EMPTY": "(76-90)",
+      "__EMPTY_1": "Proficient",
+      "Rating & Maturity Scoring": "Entities in this range are at an advanced stage of maturity. They have well-defined and effective processes in place. The focus should be on continuous improvement, innovation, and maintaining high standards."
+    },
+    {
+      "__EMPTY": "(91-100)",
+      "__EMPTY_1": "Highly Mature",
+      "Rating & Maturity Scoring": "Organizations or processes in this range are highly mature. They exhibit excellence and leadership in their domain. The emphasis should be on innovation, optimization, and maintaining best practices."
+    }
+  ]
+}

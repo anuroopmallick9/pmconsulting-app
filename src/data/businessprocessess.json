@@ -1,0 +1,338 @@
+[
+  {
+    "section": "Process Documentation",
+    "assessments": [
+      {
+        "questionid": 1,
+        "question": "Do you have documented processes for key business functions (e.g., sales, marketing, operations)?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "questionid": 2,
+        "question": "Are these process documents regularly updated and reviewed?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Process Ownership",
+    "assessments": [
+      {
+        "questionid": 1,
+        "question": "Who owns and is responsible for each major business process in your organization?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "How are process owners held accountable for process performance?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Process Performance Measurement",
+    "assessments": [
+      {
+        "questionid": 1,
+        "question": "Do you regularly measure and track the performance of your business processes?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "What key performance indicators (KPIs) do you use to assess process effectiveness?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Process Improvement Initiatives",
+    "assessments": [
+      {
+        "questionid": 1,
+        "question": "Have you initiated process improvement projects in the past?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "How often do you review and optimize your business processes?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Change Management",
+    "assessments": [
+      {
+        "questionid": 1,
+        "question": "How do you manage changes to existing processes or the introduction of new processes?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "Is there a structured change management process in place?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Technology Utilization",
+    "assessments": [
+      {
+        "questionid": 1,
+        "question": "How do you manage changes to existing processes or the introduction of new processes?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "Are these technologies integrated to streamline processes?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Data and Information Management",
+    "assessments": [
+      {
+        "questionid": 1,
+        "question": "How is data collected, managed, and utilized within your business processes?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "Do you have data quality and data governance practices in place?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Resource Allocation",
+    "assessments": [
+      {
+        "questionid": 1,
+        "question": "How do you allocate resources (human, financial, and technological) to support your business processes?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "Is resource allocation aligned with strategic goals?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Risk Management",
+    "assessments": [
+      {
+        "questionid": 1,
+        "question": "How do you identify, assess, and manage risks associated with your business processes?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "Do you have contingency plans for process disruptions?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Compliance and Regulatory Adherence",
+    "assessments": [
+      {
+        "questionid": 1,
+        "question": "Are your business processes designed to comply with industry regulations and standards? ",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "How do you ensure ongoing compliance?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Training and Skill Development",
+    "assessments": [
+      {
+        "questionid": 1,
+        "question": "Do you provide training and skill development opportunities to employees involved in business processes?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "How do you ensure that employees are equipped with the necessary skills?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Customer and Stakeholder Feedback",
+    "assessments": [
+      {
+        "questionid": 1,
+        "question": "How do you gather feedback from customers and stakeholders regarding your business processes?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "How does this feedback inform process improvements?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Cross-Functional Collaboration",
+    "assessments": [
+      {
+        "questionid": 1,
+        "question": "How well do different departments and teams collaborate to support end-to-end processes?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "Are there mechanisms in place to encourage cross-functional collaboration?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Benchmarking",
+    "assessments": [
+      {
+        "questionid": 1,
+        "question": "Do you compare your process maturity with industry benchmarks or best practices?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "What areas of improvement have been identified through benchmarking?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Continuous Improvement Culture",
+    "assessments": [
+      {
+        "questionid": 1,
+        "question": "How would you describe the overall culture within your organization regarding continuous improvement and innovation in processes?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "What initiatives are in place to foster a culture of continuous improvement?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "section": "Future Plans",
+    "assessments": [
+      {
+        "questionid": 1,
+        "question": "What are your future plans for enhancing process maturity and efficiency?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "Are there specific goals or milestones you aim to achieve?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      }
+    ]
+  }
+]

@@ -1,23 +1,9 @@
 import React from "react";
 import { Link, Route, Routes } from "react-router-dom";
 import AMSAssessment from "./pages/AMSAssessment";
-import ApplicationManagement from "./pages/ApplicationManagement";
-import BusinessProcesses from "./pages/BusinessProcesses";
-import CommunicationCollaboration from "./pages/CommunicationCollaboration";
-import ContractingAndLegalCompliance from "./pages/ContractingAndLegalCompliance";
-import CostingAndBudgeting from "./pages/CostingAndBudgeting";
-import CSIPAndTransformation from "./pages/CSIPAndTransformation";
-import EndUserComputing from "./pages/EndUserComputing";
-import Estimation from "./pages/Estimation";
-import HandoverFromSalesToDelivery from "./pages/HandoverFromSalesToDelivery";
-import InformationSecurity from "./pages/InformationSecurity";
-import InfrastructureAssessment from "./pages/InfrastructureAssessment";
-import ITSMCapabilities from "./pages/ITSMCapabilities";
-import OpportunityQualification from "./pages/OpportunityQualification";
-import RfiToRfpResponseManagement from "./pages/RfiToRfpResponseManagement";
-import RisksAndIssues from "./pages/RisksAndIssues";
-import Transition from "./pages/Transition";
+
 import Home from "./pages/Home";
+import Assessment from "./pages/assessment";
 
 const App = () => {
   return (
@@ -45,71 +31,9 @@ const App = () => {
         <Routes>
           <Route path="/" element={<Home></Home>} />
           <Route
-            path="/amsassessment"
-            element={<AMSAssessment></AMSAssessment>}
-          />
-          <Route
-            path="/applicationmanagement"
-            element={<ApplicationManagement></ApplicationManagement>}
-          ></Route>
-          <Route
-            path="/businessprocesses"
-            element={<BusinessProcesses></BusinessProcesses>}
-          ></Route>
-          <Route
-            path="/communicationandcollaboration"
-            element={<CommunicationCollaboration></CommunicationCollaboration>}
-          ></Route>
-          <Route
-            path="/contractingandlegalcompliance"
-            element={
-              <ContractingAndLegalCompliance></ContractingAndLegalCompliance>
-            }
-          ></Route>
-          <Route
-            path="/costingandbudgeting"
-            element={<CostingAndBudgeting></CostingAndBudgeting>}
-          ></Route>
-          <Route
-            path="/csipandtransformation"
-            element={<CSIPAndTransformation></CSIPAndTransformation>}
-          ></Route>
-          <Route
-            path="/endusercomputing"
-            element={<EndUserComputing></EndUserComputing>}
-          ></Route>
-          <Route path="/estimation" element={<Estimation></Estimation>}></Route>
-          <Route
-            path="/handoverfromsalestodelivery"
-            element={
-              <HandoverFromSalesToDelivery></HandoverFromSalesToDelivery>
-            }
-          ></Route>
-          <Route
-            path="/informationsecurity"
-            element={<InformationSecurity></InformationSecurity>}
-          ></Route>
-          <Route
-            path="/infrastructureassessment"
-            element={<InfrastructureAssessment></InfrastructureAssessment>}
-          ></Route>
-          <Route
             path="/assessments/:id"
-            element={<ITSMCapabilities></ITSMCapabilities>}
+            element={<Assessment></Assessment>}
           ></Route>
-          <Route
-            path="/opportunityqualification"
-            element={<OpportunityQualification></OpportunityQualification>}
-          ></Route>
-          <Route
-            path="/rfitorfpresponsemanagement"
-            element={<RfiToRfpResponseManagement></RfiToRfpResponseManagement>}
-          ></Route>
-          <Route
-            path="/risksandissues"
-            element={<RisksAndIssues></RisksAndIssues>}
-          ></Route>
-          <Route path="/transition" element={<Transition></Transition>}></Route>
         </Routes>
       </div>
     </>

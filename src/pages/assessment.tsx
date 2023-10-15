@@ -1,8 +1,27 @@
-import React, { Fragment, useState } from "react";
-import amsassessment from "./../data/amsassessment.json";
-import { Table } from "../components/Table";
+import React, { Fragment, useEffect } from "react";
+import axios from "axios";
+import { useParams } from "react-router-dom";
+import { Assessments, Convert } from "./types/assessments";
 
-const AMSAssessment = () => {
+const Assessment = () => {
+  const assessmentid = useParams();
+  const [assessment, setAssessment] = React.useState<Assessments[] | null>(
+    null
+  );
+
+  useEffect(() => {
+    const getAssessments = async () => {
+      const response = await axios.get(
+        `http://127.0.0.1:3001/api/v1/assessment/${assessmentid.id}`
+      );
+      const data = response.data["data"];
+      const convertedData = Convert.toAssessments(JSON.stringify(data));
+      setAssessment(convertedData);
+      console.log("data" + JSON.stringify(convertedData));
+    };
+    getAssessments();
+  }, []);
+
   function classNames(...classes: string[]) {
     return classes.filter(Boolean).join(" ");
   }
@@ -59,7 +78,7 @@ const AMSAssessment = () => {
                   </tr>
                 </thead>
                 <tbody className="bg-white">
-                  {amsassessment.map((row) => (
+                  {assessment?.map((row) => (
                     <Fragment key={row.section}>
                       <tr className="border-t border-gray-200">
                         <th
@@ -137,4 +156,4 @@ const AMSAssessment = () => {
   );
 };
 
-export default AMSAssessment;
+export default Assessment;

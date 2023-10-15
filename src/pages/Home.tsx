@@ -11,8 +11,8 @@ const Home = () => {
   );
   const navigate = useNavigate();
 
-  const navigatetoAssessmentScreen = (param: string, param2: string) => {
-    navigate(`/assessments/${param2}`);
+  const navigatetoAssessmentScreen = (id: string) => {
+    navigate(`/assessments/${id}`);
   };
 
   useEffect(() => {
@@ -99,10 +99,7 @@ const Home = () => {
                     <td className="px-3 py-4 text-sm text-gray-500">
                       <a
                         onClick={() => {
-                          navigatetoAssessmentScreen(
-                            subject.name.replaceAll(" ", "").toLowerCase(),
-                            subject.id
-                          );
+                          navigatetoAssessmentScreen(subject.id);
                         }}
                         className="cursor-pointer text-indigo-600 font-bold"
                       >

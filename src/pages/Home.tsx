@@ -1,19 +1,24 @@
-import React, { useEffect, useState } from "react";
+import React, { createContext, useEffect, useState } from "react";
 import axios from "axios";
 import { SubjectAreas } from "./types/subjectareas";
 import { Convert } from "./types/subjectareas";
 import { useNavigate } from "react-router-dom";
 
-const Home = () => {
+export default function Home() {
   const [subjectAreas, setSubjectAreas] = React.useState<SubjectAreas[] | null>(
     null
   );
   const [error, setError] = useState(false);
   const [loading, setLoading] = React.useState(true);
+  const [assessmentName, setAssessmentName] = React.useState("");
   const navigate = useNavigate();
 
-  const navigatetoAssessmentScreen = (id: string) => {
-    navigate(`/assessments/${id}`);
+  const navigatetoAssessmentScreen = (id: string, subjectName: string) => {
+    const paramsMap = new Map<string, string>([
+      ["id", id],
+      ["subJectName", subjectName],
+    ]);
+    navigate(`/assessments/${id}/${subjectName}`);
   };
 
   useEffect(() => {
@@ -113,7 +118,10 @@ const Home = () => {
                         <td className="px-3 py-4 text-sm text-gray-500">
                           <a
                             onClick={() => {
-                              navigatetoAssessmentScreen(subject.id);
+                              navigatetoAssessmentScreen(
+                                subject.id,
+                                subject.name
+                              );
                             }}
                             className="cursor-pointer text-indigo-600 font-bold"
                           >
@@ -130,6 +138,4 @@ const Home = () => {
       )}
     </>
   );
-};
-
-export default Home;
+}

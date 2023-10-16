@@ -1,4 +1,4 @@
-import React, { Fragment, useEffect } from "react";
+import React, { Fragment, useContext, useEffect } from "react";
 import axios from "axios";
 import { useParams } from "react-router-dom";
 import { Assessments, Convert } from "./types/assessments";
@@ -6,7 +6,7 @@ import { request } from "https";
 import { UpdateAssessment } from "./types/updateassessment";
 
 const Assessment = () => {
-  const assessmentid = useParams();
+  const params = useParams();
   const [assessment, setAssessment] = React.useState<Assessments[] | null>(
     null
   );
@@ -26,7 +26,7 @@ const Assessment = () => {
   const getAssessments = async () => {
     try {
       const response = await axios.get(
-        `http://127.0.0.1:3001/api/v1/assessment/${assessmentid.id}`
+        `http://127.0.0.1:3001/api/v1/assessment/${params.id}`
       );
       const data = response.data["data"];
       const convertedData = Convert.toAssessments(JSON.stringify(data));
@@ -69,7 +69,7 @@ const Assessment = () => {
           <div className="ml-3 sm:flex sm:items-center">
             <div className="sm:flex-auto">
               <h1 className="text-l text-base font-semibold leading-6 text-gray-900 text-indigo-900">
-                Assessment
+                {params.subJectName}
               </h1>
             </div>
           </div>
@@ -89,7 +89,7 @@ const Assessment = () => {
                         scope="col"
                         className="px-3 py-3.5 text-left text-sm font-semibold text-gray-900 sticky top-0 border-b border-gray-300 bg-white bg-opacity-75 backdrop-blur backdrop-filter"
                       >
-                        Response from Aspire
+                        Response
                       </th>
                       <th
                         scope="col"
@@ -111,9 +111,9 @@ const Assessment = () => {
                       </th>
                       <th
                         scope="col"
-                        className="relative py-3.5 pl-3 pr-4 sm:pr-3"
+                        className="px-3 py-3.5 text-left text-sm font-semibold text-gray-900 sticky top-0 border-b border-gray-300 bg-white backdrop-blur backdrop-filter"
                       >
-                        <span className="sr-only">Edit</span>
+                        Action
                       </th>
                     </tr>
                   </thead>
@@ -139,7 +139,7 @@ const Assessment = () => {
                               "border-t"
                             )}
                           >
-                            <td className=" py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-3">
+                            <td className=" py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-3 w-96 text-justify">
                               {row.question}
                             </td>
                             <td className="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
@@ -147,6 +147,7 @@ const Assessment = () => {
                                 className="border border-1 border-slate-800 rounded-sm "
                                 defaultValue={row.response}
                                 rows={3}
+                                cols={40}
                                 onChange={(e) => {
                                   setResponse(e.target.value);
                                 }}
@@ -156,7 +157,7 @@ const Assessment = () => {
                               <textarea
                                 className="border border-1 border-slate-800 rounded-sm"
                                 defaultValue={row.tools}
-                                rows={2}
+                                rows={3}
                                 onChange={(e) => {
                                   setTools(e.target.value);
                                 }}
@@ -166,7 +167,7 @@ const Assessment = () => {
                               <textarea
                                 className="border border-1 border-slate-800 rounded-sm"
                                 defaultValue={row.document}
-                                rows={2}
+                                rows={3}
                                 onChange={(e) => {
                                   setDocuments(e.target.value);
                                 }}
@@ -180,7 +181,7 @@ const Assessment = () => {
                                 }}
                                 className="border border-1 border-slate-800 rounded-sm w-20 p-1 rounded-md"
                               >
-                                <option value={1}>Select</option>
+                                <option value={0}>Select</option>
                                 <option value={1}>1</option>
                                 <option value={2}>2</option>
                                 <option value={3}>3</option>

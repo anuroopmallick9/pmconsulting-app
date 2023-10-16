@@ -16,6 +16,7 @@ export enum AreaID {
 }
 
 export interface Assessment {
+  questionId: number;
   question: string;
   response: Response;
   tools: Tools;
@@ -27,11 +28,13 @@ export enum Document {
   Docs = "docs",
   Empty = "",
   TestDocument1 = "Test document1",
-  TestdocDocProvided = "Testdoc.doc provided",
+  TestdocDocProvidedUpdatedNow11 = "Testdoc.doc provided -- updated now11",
+  WordDocument = "word document",
 }
 
 export enum Response {
   Empty = "",
+  NewResponse = "new response",
   Ok = "OK",
   Response = "response",
   TestResponse1 = "Test Response1",
@@ -40,8 +43,9 @@ export enum Response {
 export enum Tools {
   Empty = "",
   TestTools1 = "Test tools1",
-  TestToolsToBeUsed = "Test Tools to be used",
+  TestToolsToBeUsedUpdatedNow11 = "Test Tools to be used --updated now11",
   Tools = "tools",
+  WordPress = "word press",
 }
 
 // Converts JSON strings to/from your types

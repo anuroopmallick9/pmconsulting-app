@@ -2,6 +2,8 @@ import React, { Fragment, useEffect } from "react";
 import axios from "axios";
 import { useParams } from "react-router-dom";
 import { Assessments, Convert } from "./types/assessments";
+import { request } from "https";
+import { UpdateAssessment } from "./types/updateassessment";
 
 const Assessment = () => {
   const assessmentid = useParams();
@@ -10,6 +12,12 @@ const Assessment = () => {
   );
   const [loading, setLoading] = React.useState(true);
   const [error, setError] = React.useState(false);
+  const [UpdateAssessment, setUpdateAssessment] =
+    React.useState<UpdateAssessment>();
+  const [response, setResponse] = React.useState("");
+  const [tools, setTools] = React.useState("");
+  const [documents, setDocuments] = React.useState("");
+  const [maturityRating, setMaturityRating] = React.useState<number>();
 
   useEffect(() => {
     getAssessments();
@@ -29,6 +37,22 @@ const Assessment = () => {
     } catch (error) {
       setError(true);
       setLoading(false);
+    }
+  };
+
+  const editAssessment = async (assessmentid: string, questionid: number) => {
+    try {
+      await axios.put(
+        `http://127.0.0.1:3001/api/v1/assessment/${assessmentid}/${questionid}`,
+        {
+          response: `${response}`,
+          tools: `${tools}`,
+          document: `${documents}`,
+          rating: maturityRating,
+        }
+      );
+    } catch (error) {
+      console.log("Error occured while updating data");
     }
   };
 
@@ -85,24 +109,27 @@ const Assessment = () => {
                       >
                         Maturity Rating
                       </th>
-                      {/* <th scope="col" className="relative py-3.5 pl-3 pr-4 sm:pr-3">
-                    <span className="sr-only">Edit</span>
-                  </th> */}
+                      <th
+                        scope="col"
+                        className="relative py-3.5 pl-3 pr-4 sm:pr-3"
+                      >
+                        <span className="sr-only">Edit</span>
+                      </th>
                     </tr>
                   </thead>
                   <tbody className="bg-white">
-                    {assessment?.map((row) => (
-                      <Fragment key={row.section}>
+                    {assessment?.map((rows) => (
+                      <Fragment key={rows.section}>
                         <tr className="border-t border-gray-200">
                           <th
                             colSpan={5}
                             scope="colgroup"
                             className="bg-gray-50 py-2 pl-4 pr-3 text-left text-indigo-600 text-sm font-semibold text-gray-900 sm:pl-3"
                           >
-                            {row.section}
+                            {rows.section}
                           </th>
                         </tr>
-                        {row.assessments.map((row, personIdx) => (
+                        {rows.assessments.map((row, personIdx) => (
                           <tr
                             key={row.question}
                             className={classNames(
@@ -118,26 +145,41 @@ const Assessment = () => {
                             <td className="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
                               <textarea
                                 className="border border-1 border-slate-800 rounded-sm "
-                                value={row.response}
+                                defaultValue={row.response}
                                 rows={3}
+                                onChange={(e) => {
+                                  setResponse(e.target.value);
+                                }}
                               ></textarea>
                             </td>
                             <td className="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
                               <textarea
                                 className="border border-1 border-slate-800 rounded-sm"
-                                value={row.tools}
+                                defaultValue={row.tools}
                                 rows={2}
+                                onChange={(e) => {
+                                  setTools(e.target.value);
+                                }}
                               ></textarea>
                             </td>
                             <td className="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
                               <textarea
                                 className="border border-1 border-slate-800 rounded-sm"
-                                value={row.document}
+                                defaultValue={row.document}
                                 rows={2}
+                                onChange={(e) => {
+                                  setDocuments(e.target.value);
+                                }}
                               ></textarea>
                             </td>
                             <td className="whitespace-nowrap px-3 py-4 text-sm text-gray-500">
-                              <select className="border border-1 border-slate-800 rounded-sm w-20 p-1 rounded-md">
+                              <select
+                                defaultValue={row.rating}
+                                onChange={(e) => {
+                                  setMaturityRating(parseInt(e.target.value));
+                                }}
+                                className="border border-1 border-slate-800 rounded-sm w-20 p-1 rounded-md"
+                              >
                                 <option value={1}>Select</option>
                                 <option value={1}>1</option>
                                 <option value={2}>2</option>
@@ -146,15 +188,18 @@ const Assessment = () => {
                                 <option value={5}>5</option>
                               </select>
                             </td>
-                            {/* <td className="relative whitespace-nowrap py-4 pl-3 pr-4 text-right text-sm font-medium sm:pr-3">
-                          <a
-                            href="#"
-                            className="text-indigo-600 hover:text-indigo-900"
-                          >
-                            Edit
-                            <span className="sr-only">, {row.question}</span>
-                          </a>
-                        </td> */}
+                            <td className="relative whitespace-nowrap py-4 pl-3 pr-4 text-right text-sm font-medium sm:pr-3">
+                              <a
+                                href="#"
+                                className="text-indigo-600 hover:text-indigo-900"
+                                onClick={() => {
+                                  editAssessment(rows.id, row.questionId);
+                                }}
+                              >
+                                Save
+                                <span className="sr-only"></span>
+                              </a>
+                            </td>
                           </tr>
                         ))}
                       </Fragment>

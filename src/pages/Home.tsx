@@ -113,7 +113,7 @@ export default function Home() {
                           {subject.status}
                         </td>
                         <td className="px-3 py-4 text-sm text-gray-500">
-                          {subject.score}
+                          {subject.score == -1 ? "" : subject.score}
                         </td>
                         <td className="px-3 py-4 text-sm text-gray-500">
                           <a

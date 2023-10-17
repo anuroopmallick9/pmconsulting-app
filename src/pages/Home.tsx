@@ -44,11 +44,11 @@ export default function Home() {
       {loading && <p>Loading...</p>}
       {error && <p>Error Occure While Fetchig Data</p>}
       {!loading && subjectAreas && (
-        <div className="w-screen px-10 py-4 mx-auto h-5/6 overflow-auto">
+        <div className="w-screen mt-10  px-10 py-4 mx-auto h-5/6 overflow-auto">
           <div className="w-11/12">
             <div className="sm:flex sm:items-center ">
               <div className="sm:flex-auto">
-                <h1 className="mt-4 text-l font-semibold leading-6 text-gray-900 text-indigo-600">
+                <h1 className="text-l font-semibold leading-6 text-gray-900 text-indigo-600">
                   Maturity Assessment Handbook
                 </h1>
               </div>

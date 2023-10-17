@@ -1,6 +1,5 @@
 import React from "react";
 import { Link, Route, Routes } from "react-router-dom";
-import AMSAssessment from "./pages/AMSAssessment";
 
 import Home from "./pages/Home";
 import Assessment from "./pages/assessment";
@@ -8,8 +7,8 @@ import Assessment from "./pages/assessment";
 const App = () => {
   return (
     <>
-      <div className="flex h-screen">
-        <nav className="flex flex-col border-r-2 max-h-screen bg-slate-200 px-6 text-white divide-y divide-slate-600">
+      <div className="flex h-screen ">
+        <nav className="flex flex-col w-58 border-r-2 max-h-screen bg-slate-200 px-6 text-white divide-y divide-slate-600">
           <div className="my-4">
             <img src="/Cleverex-Logo.png" className="w-48"></img>
           </div>

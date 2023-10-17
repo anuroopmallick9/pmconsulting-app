@@ -45,11 +45,11 @@
     ]
   },
   {
-    "section": "Process Ownership",
+    "section": "Incident Management",
     "assessments": [
       {
         "questionid": 1,
-        "question": "Who owns and is responsible for each major business process in your organization?",
+        "question": "Describe your current incident management process.",
         "response": "",
         "tools": "",
         "document": "",
@@ -57,20 +57,7 @@
       },
       {
         "questionid": 2,
-        "question": "How are process owners held accountable for process performance?",
-        "response": "",
-        "tools": "",
-        "document": "",
-        "rating": 0
-      }
-    ]
-  },
-  {
-    "section": "Process Performance Measurement",
-    "assessments": [
-      {
-        "questionid": 1,
-        "question": "Do you regularly measure and track the performance of your business processes?",
+        "question": "How are incidents categorized and prioritized within your organization?",
         "response": "",
         "tools": "",
         "document": "",
@@ -78,20 +65,7 @@
       },
       {
         "questionid": 2,
-        "question": "What key performance indicators (KPIs) do you use to assess process effectiveness?",
-        "response": "",
-        "tools": "",
-        "document": "",
-        "rating": 0
-      }
-    ]
-  },
-  {
-    "section": "Process Improvement Initiatives",
-    "assessments": [
-      {
-        "questionid": 1,
-        "question": "Have you initiated process improvement projects in the past?",
+        "question": "What tools or systems are used for incident logging and tracking?",
         "response": "",
         "tools": "",
         "document": "",
@@ -99,7 +73,31 @@
       },
       {
         "questionid": 2,
-        "question": "How often do you review and optimize your business processes?",
+        "question": "What is your average response and resolution time for incidents?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "Do you have an incident escalation process in place, and if so, how does it work?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "How do you communicate incident status and updates to end-users?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "How do you capture and analyze incident data to identify trends and areas for improvement?",
         "response": "",
         "tools": "",
         "document": "",
@@ -112,7 +110,7 @@
     "assessments": [
       {
         "questionid": 1,
-        "question": "How do you manage changes to existing processes or the introduction of new processes?",
+        "question": "Can you describe your current change management process?",
         "response": "",
         "tools": "",
         "document": "",
@@ -120,7 +118,39 @@
       },
       {
         "questionid": 2,
-        "question": "Is there a structured change management process in place?",
+        "question": "How are proposed changes evaluated and approved?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "What is your change implementation process, and how do you handle rollback plans?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "How do you communicate upcoming changes to relevant stakeholders?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "How are change-related risks and impacts assessed and mitigated?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "How do you track and report on the success or failure of implemented changes?",
         "response": "",
         "tools": "",
         "document": "",
@@ -129,11 +159,11 @@
     ]
   },
   {
-    "section": "Technology Utilization",
+    "section": "Service Request Management",
     "assessments": [
       {
         "questionid": 1,
-        "question": "How do you manage changes to existing processes or the introduction of new processes?",
+        "question": "How do you handle service requests from end-users?",
         "response": "",
         "tools": "",
         "document": "",
@@ -141,7 +171,39 @@
       },
       {
         "questionid": 2,
-        "question": "Are these technologies integrated to streamline processes?",
+        "question": "Are there self-service options available for common service requests?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "How are service requests categorized and prioritized?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "What tools or systems are used for service request management?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "How do you ensure timely fulfillment of service requests?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "Do you measure and report on the performance of service request fulfillment?",
         "response": "",
         "tools": "",
         "document": "",
@@ -150,11 +212,11 @@
     ]
   },
   {
-    "section": "Data and Information Management",
+    "section": "Problem Management",
     "assessments": [
       {
         "questionid": 1,
-        "question": "How is data collected, managed, and utilized within your business processes?",
+        "question": "Describe your current problem management process.",
         "response": "",
         "tools": "",
         "document": "",
@@ -162,7 +224,31 @@
       },
       {
         "questionid": 2,
-        "question": "Do you have data quality and data governance practices in place?",
+        "question": "How are recurring issues and problems identified and documented?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "What steps are taken to investigate and resolve underlying problems?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "Are there known error databases or knowledge repositories in use?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "How do you prevent the recurrence of known problems?",
         "response": "",
         "tools": "",
         "document": "",
@@ -171,11 +257,11 @@
     ]
   },
   {
-    "section": "Resource Allocation",
+    "section": "Service Level Management",
     "assessments": [
       {
         "questionid": 1,
-        "question": "How do you allocate resources (human, financial, and technological) to support your business processes?",
+        "question": "Do you have defined service level agreements (SLAs) with your business units or customers?",
         "response": "",
         "tools": "",
         "document": "",
@@ -183,7 +269,15 @@
       },
       {
         "questionid": 2,
-        "question": "Is resource allocation aligned with strategic goals?",
+        "question": "How do you measure and report on SLA compliance?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "What mechanisms do you have in place for SLA review and improvement?",
         "response": "",
         "tools": "",
         "document": "",
@@ -192,11 +286,11 @@
     ]
   },
   {
-    "section": "Risk Management",
+    "section": "Knowledge Management",
     "assessments": [
       {
         "questionid": 1,
-        "question": "How do you identify, assess, and manage risks associated with your business processes?",
+        "question": "How do you capture and manage IT knowledge within your organization?",
         "response": "",
         "tools": "",
         "document": "",
@@ -204,7 +298,23 @@
       },
       {
         "questionid": 2,
-        "question": "Do you have contingency plans for process disruptions?",
+        "question": "Are there documented procedures and knowledge articles available to support IT staff?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "What tools or systems do you use for knowledge management?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "How do you ensure knowledge is up-to-date and easily accessible?",
         "response": "",
         "tools": "",
         "document": "",
@@ -213,11 +323,11 @@
     ]
   },
   {
-    "section": "Compliance and Regulatory Adherence",
+    "section": "ITSM Improvement",
     "assessments": [
       {
         "questionid": 1,
-        "question": "Are your business processes designed to comply with industry regulations and standards? ",
+        "question": "What recent ITSM improvements or initiatives have you undertaken?",
         "response": "",
         "tools": "",
         "document": "",
@@ -225,7 +335,31 @@
       },
       {
         "questionid": 2,
-        "question": "How do you ensure ongoing compliance?",
+        "question": "Do you conduct regular ITSM maturity assessments or audits?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "Do you conduct regular ITSM maturity assessments or audits?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "How do you prioritize and plan for ITSM improvements?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "Are there any specific challenges or pain points you face in ITSM that require attention?",
         "response": "",
         "tools": "",
         "document": "",
@@ -234,11 +368,11 @@
     ]
   },
   {
-    "section": "Training and Skill Development",
+    "section": "ITSM Training and Development",
     "assessments": [
       {
         "questionid": 1,
-        "question": "Do you provide training and skill development opportunities to employees involved in business processes?",
+        "question": "What training and development programs are in place for ITSM staff? ",
         "response": "",
         "tools": "",
         "document": "",
@@ -246,7 +380,15 @@
       },
       {
         "questionid": 2,
-        "question": "How do you ensure that employees are equipped with the necessary skills?",
+        "question": "How do you ensure that ITSM personnel stay current with industry best practices?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "Are there certification programs or continuous education opportunities for ITSM professionals?",
         "response": "",
         "tools": "",
         "document": "",
@@ -255,11 +397,11 @@
     ]
   },
   {
-    "section": "Customer and Stakeholder Feedback",
+    "section": "ITSM and Technology",
     "assessments": [
       {
         "questionid": 1,
-        "question": "How do you gather feedback from customers and stakeholders regarding your business processes?",
+        "question": "How do you leverage technology, such as AI or automation, to enhance ITSM capabilities?",
         "response": "",
         "tools": "",
         "document": "",
@@ -267,7 +409,15 @@
       },
       {
         "questionid": 2,
-        "question": "How does this feedback inform process improvements?",
+        "question": "Are there plans to integrate ITSM tools with other systems or platforms?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "What is your approach to ensuring data security and compliance within ITSM processes?",
         "response": "",
         "tools": "",
         "document": "",
@@ -276,11 +426,11 @@
     ]
   },
   {
-    "section": "Cross-Functional Collaboration",
+    "section": "ITSM Future Goals",
     "assessments": [
       {
         "questionid": 1,
-        "question": "How well do different departments and teams collaborate to support end-to-end processes?",
+        "question": "What are your future goals and objectives for ITSM within your organization?",
         "response": "",
         "tools": "",
         "document": "",
@@ -288,7 +438,7 @@
       },
       {
         "questionid": 2,
-        "question": "Are there mechanisms in place to encourage cross-functional collaboration?",
+        "question": "How do you envision ITSM evolving to better support business needs and growth?",
         "response": "",
         "tools": "",
         "document": "",
@@ -297,11 +447,11 @@
     ]
   },
   {
-    "section": "Benchmarking",
+    "section": "Metrics and KPIs",
     "assessments": [
       {
         "questionid": 1,
-        "question": "Do you compare your process maturity with industry benchmarks or best practices?",
+        "question": "What key performance indicators (KPIs) do you use to measure ITSM effectiveness?",
         "response": "",
         "tools": "",
         "document": "",
@@ -309,7 +459,23 @@
       },
       {
         "questionid": 2,
-        "question": "What areas of improvement have been identified through benchmarking?",
+        "question": "Can you provide historical data for these KPIs to assess trends?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "How often do you review and act upon performance metrics?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 0
+      },
+      {
+        "questionid": 2,
+        "question": "Have KPIs been linked to business outcomes and customer satisfaction?",
         "response": "",
         "tools": "",
         "document": "",
@@ -318,11 +484,11 @@
     ]
   },
   {
-    "section": "Continuous Improvement Culture",
+    "section": "Challenges and Improvement Plans",
     "assessments": [
       {
         "questionid": 1,
-        "question": "How would you describe the overall culture within your organization regarding continuous improvement and innovation in processes?",
+        "question": "What are the main challenges or pain points your organization faces in ITSM?",
         "response": "",
         "tools": "",
         "document": "",
@@ -330,20 +496,7 @@
       },
       {
         "questionid": 2,
-        "question": "What initiatives are in place to foster a culture of continuous improvement?",
-        "response": "",
-        "tools": "",
-        "document": "",
-        "rating": 0
-      }
-    ]
-  },
-  {
-    "section": "Future Plans",
-    "assessments": [
-      {
-        "questionid": 1,
-        "question": "What are your future plans for enhancing process maturity and efficiency?",
+        "question": "Are there any specific plans, initiatives, or projects aimed at improving ITSM capabilities?",
         "response": "",
         "tools": "",
         "document": "",
@@ -351,7 +504,7 @@
       },
       {
         "questionid": 2,
-        "question": "Are there specific goals or milestones you aim to achieve?",
+        "question": "How do you measure the success of ITSM improvement initiatives?",
         "response": "",
         "tools": "",
         "document": "",

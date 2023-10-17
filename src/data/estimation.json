@@ -412,5 +412,494 @@
         "rating": 2
       }
     ]
+  },
+  {
+    "section": "Infra - Software and Licensing",
+    "assessments": [
+      {
+        "question": "Identify the required software components, licenses, and versions.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Calculate software licensing costs and ensure compliance.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Monitoring and Management",
+    "assessments": [
+      {
+        "question": "Specify the tools and processes for infrastructure monitoring, management, and alerting.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Consider remote management capabilities for proactive support.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Disaster Recovery and Backup",
+    "assessments": [
+      {
+        "question": "Develop a comprehensive disaster recovery plan with RTO (Recovery Time Objective) and RPO (Recovery Point Objective) considerations.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Determine backup solutions and costs.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Vendor and Service Provider Costs",
+    "assessments": [
+      {
+        "question": "Evaluate the costs associated with third-party vendors or service providers, including SLAs and support agreements.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Power and Environmental Costs",
+    "assessments": [
+      {
+        "question": "Calculate costs related to power consumption, backup generators, and environmental controls (e.g., cooling).",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Maintenance and Support",
+    "assessments": [
+      {
+        "question": "Estimate ongoing maintenance, support, and IT staffing costs.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Consider training and knowledge transfer expenses.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Data Center Costs",
+    "assessments": [
+      {
+        "question": "If applicable, include costs for leasing or building data center facilities, including space, power, and physical security.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Contingency and Risk Management",
+    "assessments": [
+      {
+        "question": "Budget for unexpected contingencies and risks that may impact project costs.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Total Cost of Ownership (TCO)",
+    "assessments": [
+      {
+        "question": "Calculate the TCO, which includes upfront capital expenditures (CapEx) and ongoing operational expenses (OpEx).",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Budget Constraints",
+    "assessments": [
+      {
+        "question": "Ensure that the cost estimation aligns with the project's budget constraints.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Identify opportunities for cost optimization without compromising performance and security.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Documentation and Reporting",
+    "assessments": [
+      {
+        "question": "Maintain detailed documentation of the cost estimation process and assumptions.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Provide clear reporting to stakeholders for transparency.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Infra - Cloud native features",
+    "assessments": [
+      {
+        "question": "Whether cloud native features and tools are being leveraged for all the above line items?",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application - Service Scope and Service Levels",
+    "assessments": [
+      {
+        "question": "Define the scope of services to be provided under the managed services agreement.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Specify service levels, including response times, availability, and performance metrics.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application Portfolio Analysis",
+    "assessments": [
+      {
+        "question": "Assess the number and complexity of applications to be managed.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Categorize applications based on criticality and strategic importance.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application - Staffing and Resource Requirements",
+    "assessments": [
+      {
+        "question": "Estimate the number and skills of personnel needed for application management and support.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Consider roles such as system administrators, database administrators, security experts, and support staff.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application - Salaries and Labor Costs",
+    "assessments": [
+      {
+        "question": "Calculate the salaries, benefits, and overhead costs associated with the required personnel.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Include training and development expenses for staff.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application - Infrastructure Costs",
+    "assessments": [
+      {
+        "question": "Account for the cost of servers, storage, networking equipment, and other infrastructure components.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Consider both capital expenditures (CapEx) and ongoing operational expenses (OpEx).",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application - Software and Licensing Costs",
+    "assessments": [
+      {
+        "question": "Include licensing fees for operating systems, database software, and other application-specific software.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Consider software maintenance and support costs.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application - Third-Party Services and Vendors",
+    "assessments": [
+      {
+        "question": "Evaluate costs associated with third-party services, such as cloud providers, data center hosting, or security services.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Review contracts and service level agreements (SLAs) with third-party vendors.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application - Tools and Technology Costs",
+    "assessments": [
+      {
+        "question": "Factor in the cost of monitoring tools, management software, and other technologies required for application management.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Consider licensing and subscription fees.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application - Data Center and Facilities Costs",
+    "assessments": [
+      {
+        "question": "If applicable, account for expenses related to data center facilities, including space, power, cooling, and physical security.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      },
+      {
+        "question": "Consider lease or rental costs.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application - Disaster Recovery and Business Continuity",
+    "assessments": [
+      {
+        "question": "Budget for disaster recovery infrastructure and services. - Include costs associated with backup solutions, offsite storage, and testing procedures.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application - Training and Knowledge Transfer",
+    "assessments": [
+      {
+        "question": "Allocate funds for training programs and knowledge transfer sessions. - Ensure that staff members are adequately trained to manage and support the applications.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application - Contingency and Risk Management",
+    "assessments": [
+      {
+        "question": "Set aside a contingency budget to address unforeseen challenges and risks. - Identify potential risks and establish mitigation strategies.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application - Compliance and Security Costs",
+    "assessments": [
+      {
+        "question": "Calculate expenses related to compliance audits, security assessments, and regulatory compliance. - Budget for security measures and technologies.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application - Reporting and Monitoring Costs",
+    "assessments": [
+      {
+        "question": "Include costs associated with monitoring tools, reporting systems, and performance analytics. - Ensure that monitoring capabilities align with service levels and quality expectations.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application - Documentation and Reporting",
+    "assessments": [
+      {
+        "question": "Allocate resources for documenting processes, procedures, and incident reports. - Develop reporting mechanisms to keep stakeholders informed about service performance.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application - Continuous Improvement and Upgrades",
+    "assessments": [
+      {
+        "question": "Set aside funds for continuous improvement initiatives and upgrades to technology and infrastructure. - Consider technology refresh cycles and hardware replacements.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application - Budget Contingencies",
+    "assessments": [
+      {
+        "question": "Plan for budget contingencies to address unforeseen expenses or changes in project scope. - Typically, a small percentage of the budget is allocated for contingencies.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application - Contractual and Legal Costs",
+    "assessments": [
+      {
+        "question": "Include expenses related to legal review and drafting of managed services agreements. - Consider contractual compliance and dispute resolution costs.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application - Taxes and Regulatory Fees",
+    "assessments": [
+      {
+        "question": "Account for taxes, fees, and levies that may be applicable to the project or services. - Ensure compliance with tax regulations.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "section": "Application - Total Cost of Ownership (TCO) Analysis",
+    "assessments": [
+      {
+        "question": "Calculate the TCO, which includes both upfront capital expenses (CapEx) and ongoing operational expenses (OpEx). - Compare TCO against the available budget.",
+        "response": "",
+        "tools": "",
+        "document": "",
+        "rating": 2
+      }
+    ]
   }
 ]

@@ -2,9 +2,6 @@ import React, { Fragment, useContext, useEffect } from "react";
 import axios from "axios";
 import { useParams } from "react-router-dom";
 import { Assessments, Convert } from "./types/assessments";
-import { request } from "https";
-import { UpdateAssessment } from "./types/updateassessment";
-import { isDisabled } from "@testing-library/user-event/dist/utils";
 import EditableRow from "../components/EditableRow";
 import ReadOnlyRow from "../components/ReadOnlyRow";
 
@@ -30,7 +27,15 @@ const Assessment = () => {
     getAssessments();
   }, []);
 
-  console.log(EditFormData);
+  const getTotalMaturityRating = () => {
+    let totalMaturityScore = 0;
+    assessment?.forEach((section) => {
+      section.assessments.forEach((maturityRating) => {
+        totalMaturityScore += maturityRating.rating;
+      });
+    });
+    return totalMaturityScore;
+  };
 
   const getAssessments = async () => {
     try {
@@ -120,15 +125,18 @@ const Assessment = () => {
         <div className="w-5/6 h-5/6 overflow-auto mt-10 sm:px-6 lg:px-8">
           <div className="ml-3 sm:flex sm:items-center">
             <div className="sm:flex-auto">
-              <h1 className="text-l text-base font-semibold leading-6 text-gray-900 text-indigo-900">
-                {params.subJectName}
+              <h1 className="flex justify-between text-l text-base font-semibold leading-6 text-gray-900 text-indigo-900">
+                {params.subJectName}{" "}
+                <span>
+                  Average Maturity Rating - {getTotalMaturityRating()}
+                </span>
               </h1>
             </div>
           </div>
           <form>
             <div className="flow-root">
               <div className="">
-                <div className=" inline-block min-w-full py-2 align-middle ">
+                <div className=" inline-block min-w-full py-2 align-middle">
                   <div className="bg-green ">
                     <table className="min-w-full ">
                       <thead className="bg-white">

@@ -54,6 +54,8 @@ const Assessment = () => {
   };
 
   const editAssessment = async (assessmentid: string, questionid: number) => {
+    seteditAssessmentId(null);
+    seteditQuestionId(null);
     try {
       await axios.put(
         `http://127.0.0.1:3001/api/v1/assessment/${assessmentid}/${questionid}`,
@@ -65,8 +67,6 @@ const Assessment = () => {
         }
       );
 
-      seteditAssessmentId(null);
-      seteditQuestionId(null);
       getAssessments();
     } catch (error) {
       console.log("Error occured while updating data");
@@ -125,8 +125,8 @@ const Assessment = () => {
         <div className="w-5/6 h-5/6 overflow-auto mt-10 sm:px-6 lg:px-8">
           <div className="ml-3 sm:flex sm:items-center">
             <div className="sm:flex-auto">
-              <h1 className="flex justify-between text-l text-base font-semibold leading-6 text-gray-900 text-indigo-900">
-                {params.subJectName}{" "}
+              <h1 className="flex justify-between text-l text-base font-semibold leading-6 text-gray-900">
+                <span className="text-2xl">{params.subJectName}</span>{" "}
                 <span>
                   Average Maturity Rating - {getTotalMaturityRating()}
                 </span>
@@ -138,7 +138,7 @@ const Assessment = () => {
               <div className="">
                 <div className=" inline-block min-w-full py-2 align-middle">
                   <div className="bg-green ">
-                    <table className="min-w-full ">
+                    <table className="min-w-full border-separate border-spacing-0">
                       <thead className="bg-white">
                         <tr>
                           <th
@@ -173,9 +173,9 @@ const Assessment = () => {
                           </th>
                           <th
                             scope="col"
-                            className="px-3 py-3.5 text-left text-sm font-semibold text-gray-900 sticky top-0 border-b border-gray-300 bg-white backdrop-blur backdrop-filter"
+                            className="sticky top-0 z-10 border-b border-gray-300 bg-white bg-opacity-75 py-3.5 pl-3 pr-4 backdrop-blur backdrop-filter sm:pr-6 lg:pr-8"
                           >
-                            Action
+                            <span className="sr-only">Edit</span>
                           </th>
                         </tr>
                       </thead>

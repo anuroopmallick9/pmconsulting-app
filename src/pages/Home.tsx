@@ -48,7 +48,7 @@ export default function Home() {
           <div className="w-11/12">
             <div className="sm:flex sm:items-center ">
               <div className="sm:flex-auto">
-                <h1 className="text-l font-semibold leading-6 text-gray-900 text-indigo-600">
+                <h1 className="text-2xl font-semibold leading-6 text-gray-900 ">
                   Maturity Assessment Handbook
                 </h1>
               </div>
